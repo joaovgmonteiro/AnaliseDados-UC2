@@ -1,0 +1,61 @@
+UC2 -> 19 aulas
+
+Aula 01 - Séries com Pandas e Introdução à Data frame
+
+Variáveis Qualitativas: atributos que não podem ser medidos numericamente. (Classificação - categorizar)
+Ex.:cor_olhos = "castanho"
+    estado_civil = "solteiro"
+    tipo_veiculo = "carro"
+
+Variáveis Quantitativas: Expressam números.
+Ex.:idade = 28
+    altura_cm = 175
+    renda_mensal = 3500.0
+
+Variáveis Qualitativas
+- tipo_veiculo = "moto"
+- cor_olhos = "verde"
+- cidade = "Rio de Janeiro"
+- estado_civil = "casado"
+- religiao = "católica"
+- lingua = "português"
+- genero = "feminino"
+- time_futebol = "Flamengo"
+- classe_social = "média"
+- nacionalidade = "brasileiro"
+
+Variáveis Quantitativas
+- idade = 32
+- temperatura_celsius = 28.5
+- velocidade_kmh = 90
+- quantiade_produtos = 150
+- numero_filhos = 3
+- peso_kg = 75.4
+- altura_cm = 180
+- nota_prova = 8.7
+- horas_estudo = 5
+- renda_mensal = 4200.0
+
+Conceitos Estatísticos
+População: Conjunto total de individuos com caracteristicas em comum. Ex: Todos os habitantes de uma cidade 
+Censo: levantamento completo de dados de todos os elementos da população. Ex: Pesquisa do IBGE que coleta dados de todos os 
+brasileiros.
+Amostra: Subconjunto de uma população, selecionado para análise. Ex: 1000 pessoas escolhidas para responder uma pesquisa 
+de opinião.
+Amostragem: Processo/técnica para selecionar a amostra de uma população.
+
+https://virtualenv.pypa.io/en/latest/index.html
+
+Um ambiente virutal por projeto.
+
+Criação e ativação do ambiente virtual - Para instalar bibliotecas
+python -m virtualenv "nome_ambiente_virtual"
+aula_001_series\Scripts\activate
+
+bibliotecas = Ferramenteas especificas
+frameworks = estruturas completas
+
+pd.Series : Cria uma estrutura de dados unidimensional (como uma coluna do excel)
+pd.DataFrame : Cria uma tabela com linhas e colunas (como uma planilha inteira)
+
+DataSet = "planilha organizada de dados"
