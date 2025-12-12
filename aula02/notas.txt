@@ -1,2 +1,4 @@
 quartis - identificar amostras confiaveis e não confiaveis
 
+
+https://www.kaggle.com/datasets
