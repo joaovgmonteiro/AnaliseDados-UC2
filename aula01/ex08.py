@@ -9,4 +9,10 @@ dados = {
 }
 
 df = pd.DataFrame(dados)
-print(df)
+
+
+print("\nSelecionar apenas a coluna ""Nome""\n")
+print(df["Nome"])
+
+print("\nFiltrar pessoas com idade maior que 25\n")
+print(df[df["Idade"] > 25])

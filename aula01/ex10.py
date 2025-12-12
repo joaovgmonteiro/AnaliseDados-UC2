@@ -20,10 +20,10 @@ import pandas as pd
 
 df = pd.read_excel("vendas_ecommerce.xlsx")
 
-print(f"Valor total de vendas: R$ {df["TotalValue"].sum()}")
-print(f"Média de valor por pedido: R$ {df["TotalValue"].mean()}")
+print(f"Valor total de vendas: R$ {df['TotalValue'].sum()}")
+print(f"Média de valor por pedido: R$ {df['TotalValue'].mean()}")
 
-vendas_categoria = df.groupby("Category")["TotalValue"].sum()
+vendas_categoria = df.groupby("Category")['TotalValue'].sum()
 print(f"Categoria mais lucrativa: {vendas_categoria.idxmax()} | Valor: R$ {vendas_categoria.max()}")
 
 regiao_mais_vendas = df.groupby("Region")["OrderID"].count()
