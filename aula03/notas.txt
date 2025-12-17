@@ -1,0 +1,65 @@
+Data Query Language 
+. Manipulação de banco de dados
+
+Banco de dados relacional
+ - Chave primária: Identifica cada registro de forma única.
+ - Chave estrangeira: Conecta tabelas diferentes.
+
+ Mysql: Sistema gerenciador de banco de dados (SGBD)
+
+ http://localhost:8080/phpmyadmin/
+
+ Ferramenta web para ter acesso ao banco de dados Mysql
+
+ https://dbeaver.com/ -> Multi banco de dados
+
+ DQL
+
+ . SELECT
+ . 
+
+=Comandos SQL=
+Listagem de todas as vendas
+ SELECT * FROM vendas_ecommerce;
+
+Listar apenas os produtos e valores
+SELECT Product, TotalValue FROM vendas_ecommerce;
+
+Listar clientes e regiões
+SELECT CustomerID, Region FROM vendas_ecommerce;
+
+Vendas realizadas na região Sudeste:
+SELECT * FROM vendas_ecommerce
+WHERE Region = 'Sudeste';
+
+Produtos da categoria moda:
+SELECT Product, Category, TotalValue
+FROM vendas_ecommerce
+WHERE Category = 'Moda';
+
+Vendas acima de R$ 5000:
+SELECT OrderID, Product, TotalValue
+FROM vendas_ecommerce
+WHERE TotalValue > 5000;
+
+Produtos mais caros primeiro:
+SELECT Product, UnitPrice
+FROM vendas_ecommerce
+ORDER BY UnitPrice DESC;
+
+Vendas por valor total (do maior para o menor):
+SELECT OrderID, Product, TotalValue
+FROM vendas_ecommerce
+ORDER BY TotalValue DESC;
+
+Total de vendas por produto:
+SELECT Product, SUM(TotalValue) AS TotalPorProduto
+FROM vendas_ecommerce
+GROUP BY Product;
+
+Quantidade vendida por categoria:
+SELECT Category, SUM(Quantity) AS TotalQuantidade
+FROM vendas_ecommerce
+GROUP BY Category;
+
+Biblioteca mysql.connector 
