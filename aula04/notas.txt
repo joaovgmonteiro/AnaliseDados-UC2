@@ -1,0 +1,50 @@
+-- Criar o usuário (altere 'usuario' e 'senha123')
+CREATE USER 'analista_dados'@'%' IDENTIFIED BY 'Pa$$w0rd';
+
+-- Permissões CRUD + criação/alteração/exclusão de objetos em todos os bancos
+GRANT SELECT, INSERT, UPDATE, DELETE,
+       CREATE, ALTER, DROP, INDEX, REFERENCES
+ON *.* TO 'analista_dados'@'%';
+
+-- Permissão para criar databases
+GRANT CREATE, ALTER, DROP, FILE
+ON *.* TO 'analista_dados'@'%';
+
+-- Aplicar as permissões
+FLUSH PRIVILEGES;
+
+
+===========================================================================================================
+
+CREATE DATABASE IF NOT EXISTS ecommerce;
+USE ecommerce;
+
+CREATE TABLE vendas_ecommerce (
+    OrderID INT PRIMARY KEY,
+    CustomerID INT,
+    Product VARCHAR(100),
+    Category VARCHAR(50),
+    Quantity INT,
+    UnitPrice DECIMAL(10,2),
+    OrderDate DATE,
+    Region VARCHAR(50),
+    TotalValue DECIMAL(10,2)
+);
+
+SHOW VARIABLES LIKE 'secure_file_priv';
+
+LOAD DATA INFILE 'C:/analista_arquivos/vendas_ecommerce.csv'
+INTO TABLE vendas_ecommerce
+FIELDS TERMINATED BY ';' 
+ENCLOSED BY '"' 
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(OrderID, CustomerID, Product, Category, Quantity, UnitPrice, OrderDate, Region, TotalValue);
+
+====================================================================================================
+
+modelagem de dados -> Representar, organizar e estruturar dados de forma lógica, consistente e alinhada as regras de negócio.
+
+1. Modelo Conceitual
+2. Modelo Lógico
+3. Modelo Físico

@@ -1,0 +1,1201 @@
+﻿OrderID;CustomerID;Product;Category;Quantity;UnitPrice;OrderDate;Region;TotalValue
+1;1102;Livro;Livros;1;373;2025-01-01;Nordeste;373
+2;1435;Notebook;Eletrônicos;1;1010;2025-01-02;Sudeste;1010
+3;1860;Smartphone;Casa;1;163;2025-01-03;Centro-Oeste;163
+4;1270;Geladeira;Esportes;1;1842;2025-01-04;Centro-Oeste;1842
+5;1106;Notebook;Casa;4;1131;2025-01-05;Sudeste;4524
+6;1071;Notebook;Casa;3;203;2025-01-06;Centro-Oeste;609
+7;1700;Camisa;Eletrônicos;1;1950;2025-01-07;Sul;1950
+8;1020;Livro;Eletrônicos;2;1477;2025-01-08;Sudeste;2954
+9;1614;Geladeira;Eletrônicos;4;1701;2025-01-09;Nordeste;6804
+10;1121;Fone de ouvido;Moda;4;1928;2025-01-10;Sudeste;7712
+11;1466;Fone de ouvido;Livros;1;1339;2025-01-11;Norte;1339
+12;1214;Fone de ouvido;Moda;4;364;2025-01-12;Nordeste;1456
+13;1330;Tênis;Livros;1;1788;2025-01-13;Norte;1788
+14;1458;Tênis;Livros;3;1114;2025-01-14;Nordeste;3342
+15;1087;Smartphone;Casa;3;154;2025-01-15;Centro-Oeste;462
+16;1372;Geladeira;Casa;4;1974;2025-01-16;Sudeste;7896
+17;1099;Fone de ouvido;Livros;4;1963;2025-01-17;Sul;7852
+18;1871;Tênis;Livros;2;1266;2025-01-18;Nordeste;2532
+19;1663;Smartphone;Moda;4;1474;2025-01-19;Nordeste;5896
+20;1130;Livro;Moda;2;1351;2025-01-20;Norte;2702
+21;1661;Smartphone;Casa;3;403;2025-01-21;Centro-Oeste;1209
+22;1308;Tênis;Eletrônicos;3;1065;2025-01-22;Norte;3195
+23;1769;Camisa;Livros;1;1822;2025-01-23;Norte;1822
+24;1343;Camisa;Moda;3;782;2025-01-24;Centro-Oeste;2346
+25;1491;Fone de ouvido;Casa;2;1653;2025-01-25;Sul;3306
+26;1413;Camisa;Moda;4;758;2025-01-26;Norte;3032
+27;1805;Fone de ouvido;Livros;1;1329;2025-01-27;Norte;1329
+28;1385;Fone de ouvido;Livros;2;700;2025-01-28;Nordeste;1400
+29;1191;Tênis;Esportes;4;873;2025-01-29;Centro-Oeste;3492
+30;1955;Camisa;Eletrônicos;1;996;2025-01-30;Sudeste;996
+31;1276;Fone de ouvido;Esportes;3;710;2025-01-31;Sul;2130
+32;1160;Geladeira;Casa;2;148;2025-02-01;Sul;296
+33;1459;Livro;Moda;4;637;2025-02-02;Centro-Oeste;2548
+34;1313;Smartphone;Casa;1;331;2025-02-03;Nordeste;331
+35;1021;Smartphone;Livros;1;1956;2025-02-04;Nordeste;1956
+36;1252;Tênis;Esportes;3;452;2025-02-05;Centro-Oeste;1356
+37;1747;Camisa;Esportes;4;1182;2025-02-06;Nordeste;4728
+38;1856;Camisa;Esportes;3;749;2025-02-07;Sul;2247
+39;1560;Fone de ouvido;Casa;3;248;2025-02-08;Sul;744
+40;1474;Notebook;Livros;4;1376;2025-02-09;Sudeste;5504
+41;1058;Fone de ouvido;Moda;4;376;2025-02-10;Centro-Oeste;1504
+42;1510;Livro;Moda;4;203;2025-02-11;Norte;812
+43;1681;Geladeira;Casa;2;601;2025-02-12;Norte;1202
+44;1475;Smartphone;Esportes;4;1718;2025-02-13;Sudeste;6872
+45;1699;Fone de ouvido;Eletrônicos;1;454;2025-02-14;Sudeste;454
+46;1975;Notebook;Casa;3;511;2025-02-15;Nordeste;1533
+47;1782;Notebook;Casa;2;181;2025-02-16;Sudeste;362
+48;1189;Fone de ouvido;Livros;4;840;2025-02-17;Sudeste;3360
+49;1957;Tênis;Moda;2;923;2025-02-18;Norte;1846
+50;1686;Smartphone;Casa;4;133;2025-02-19;Nordeste;532
+51;1957;Tênis;Casa;2;1472;2025-02-20;Sudeste;2944
+52;1562;Geladeira;Esportes;3;803;2025-02-21;Sudeste;2409
+53;1875;Notebook;Esportes;3;677;2025-02-22;Nordeste;2031
+54;1566;Notebook;Eletrônicos;1;1182;2025-02-23;Centro-Oeste;1182
+55;1243;Livro;Livros;1;270;2025-02-24;Nordeste;270
+56;1831;Geladeira;Eletrônicos;4;1977;2025-02-25;Norte;7908
+57;1504;Notebook;Esportes;3;602;2025-02-26;Centro-Oeste;1806
+58;1130;Geladeira;Moda;2;1441;2025-02-27;Sul;2882
+59;1484;Smartphone;Esportes;2;1220;2025-02-28;Nordeste;2440
+60;1818;Camisa;Livros;2;161;2025-03-01;Norte;322
+61;1646;Notebook;Esportes;1;664;2025-03-02;Centro-Oeste;664
+62;1020;Livro;Livros;2;1631;2025-03-03;Nordeste;3262
+63;1840;Smartphone;Livros;1;973;2025-03-04;Sudeste;973
+64;1166;Fone de ouvido;Livros;1;1567;2025-03-05;Nordeste;1567
+65;1273;Geladeira;Livros;4;1578;2025-03-06;Sul;6312
+66;1387;Fone de ouvido;Livros;2;524;2025-03-07;Nordeste;1048
+67;1600;Tênis;Moda;2;885;2025-03-08;Centro-Oeste;1770
+68;1315;Smartphone;Eletrônicos;3;1963;2025-03-09;Centro-Oeste;5889
+69;1013;Fone de ouvido;Casa;4;320;2025-03-10;Nordeste;1280
+70;1241;Notebook;Eletrônicos;3;470;2025-03-11;Centro-Oeste;1410
+71;1776;Geladeira;Livros;4;1970;2025-03-12;Sudeste;7880
+72;1345;Camisa;Moda;2;756;2025-03-13;Nordeste;1512
+73;1564;Smartphone;Esportes;1;1440;2025-03-14;Sudeste;1440
+74;1897;Notebook;Moda;1;1353;2025-03-15;Sudeste;1353
+75;1339;Livro;Livros;1;1356;2025-03-16;Norte;1356
+76;1091;Tênis;Moda;1;89;2025-03-17;Nordeste;89
+77;1366;Geladeira;Moda;1;238;2025-03-18;Centro-Oeste;238
+78;1955;Smartphone;Livros;3;1237;2025-03-19;Sudeste;3711
+79;1454;Smartphone;Moda;4;1043;2025-03-20;Norte;4172
+80;1427;Camisa;Casa;2;1609;2025-03-21;Nordeste;3218
+81;1508;Camisa;Casa;3;585;2025-03-22;Nordeste;1755
+82;1775;Livro;Moda;4;1077;2025-03-23;Sul;4308
+83;1942;Tênis;Esportes;1;1908;2025-03-24;Sul;1908
+84;1034;Livro;Livros;4;339;2025-03-25;Sudeste;1356
+85;1205;Notebook;Casa;4;482;2025-03-26;Sul;1928
+86;1080;Notebook;Esportes;1;520;2025-03-27;Sudeste;520
+87;1931;Livro;Moda;1;1254;2025-03-28;Centro-Oeste;1254
+88;1561;Tênis;Esportes;1;1321;2025-03-29;Sudeste;1321
+89;1871;Livro;Eletrônicos;2;677;2025-03-30;Sul;1354
+90;1387;Tênis;Casa;1;328;2025-03-31;Centro-Oeste;328
+91;1001;Tênis;Moda;2;926;2025-04-01;Sul;1852
+92;1389;Fone de ouvido;Livros;1;630;2025-04-02;Sudeste;630
+93;1565;Geladeira;Moda;2;912;2025-04-03;Norte;1824
+94;1105;Tênis;Livros;4;303;2025-04-04;Nordeste;1212
+95;1771;Camisa;Moda;3;230;2025-04-05;Sul;690
+96;1821;Tênis;Esportes;4;1903;2025-04-06;Sudeste;7612
+97;1476;Tênis;Esportes;4;730;2025-04-07;Centro-Oeste;2920
+98;1702;Tênis;Esportes;1;874;2025-04-08;Sul;874
+99;1401;Fone de ouvido;Eletrônicos;2;1582;2025-04-09;Sul;3164
+100;1729;Fone de ouvido;Livros;3;1834;2025-04-10;Nordeste;5502
+101;1555;Notebook;Esportes;1;749;2025-04-11;Sudeste;749
+102;1161;Fone de ouvido;Eletrônicos;1;615;2025-04-12;Norte;615
+103;1201;Camisa;Livros;1;1399;2025-04-13;Centro-Oeste;1399
+104;1957;Camisa;Moda;4;1430;2025-04-14;Sudeste;5720
+105;1995;Fone de ouvido;Eletrônicos;2;1898;2025-04-15;Centro-Oeste;3796
+106;1269;Livro;Casa;2;1723;2025-04-16;Sul;3446
+107;1862;Geladeira;Eletrônicos;3;729;2025-04-17;Nordeste;2187
+108;1815;Fone de ouvido;Eletrônicos;2;440;2025-04-18;Nordeste;880
+109;1270;Tênis;Livros;2;1688;2025-04-19;Norte;3376
+110;1455;Smartphone;Moda;1;1158;2025-04-20;Nordeste;1158
+111;1461;Geladeira;Casa;1;1390;2025-04-21;Sul;1390
+112;1726;Geladeira;Esportes;4;261;2025-04-22;Norte;1044
+113;1251;Camisa;Esportes;1;1588;2025-04-23;Sudeste;1588
+114;1701;Geladeira;Eletrônicos;1;433;2025-04-24;Nordeste;433
+115;1295;Fone de ouvido;Livros;1;1764;2025-04-25;Norte;1764
+116;1724;Tênis;Livros;1;391;2025-04-26;Sul;391
+117;1719;Tênis;Esportes;4;1888;2025-04-27;Centro-Oeste;7552
+118;1748;Notebook;Casa;1;893;2025-04-28;Centro-Oeste;893
+119;1337;Tênis;Moda;3;1111;2025-04-29;Sul;3333
+120;1878;Tênis;Casa;3;1584;2025-04-30;Sul;4752
+121;1052;Camisa;Moda;3;469;2025-05-01;Centro-Oeste;1407
+122;1791;Tênis;Esportes;3;800;2025-05-02;Norte;2400
+123;1921;Notebook;Moda;1;1242;2025-05-03;Centro-Oeste;1242
+124;1216;Smartphone;Livros;3;1982;2025-05-04;Sul;5946
+125;1763;Fone de ouvido;Eletrônicos;1;1416;2025-05-05;Nordeste;1416
+126;1187;Camisa;Eletrônicos;4;1899;2025-05-06;Sudeste;7596
+127;1379;Smartphone;Esportes;3;355;2025-05-07;Nordeste;1065
+128;1492;Camisa;Livros;2;1615;2025-05-08;Nordeste;3230
+129;1040;Livro;Casa;3;751;2025-05-09;Sul;2253
+130;1156;Geladeira;Livros;3;918;2025-05-10;Centro-Oeste;2754
+131;1014;Livro;Eletrônicos;1;586;2025-05-11;Norte;586
+132;1812;Tênis;Eletrônicos;3;1185;2025-05-12;Nordeste;3555
+133;1064;Smartphone;Livros;2;1484;2025-05-13;Centro-Oeste;2968
+134;1856;Tênis;Livros;1;255;2025-05-14;Norte;255
+135;1838;Geladeira;Eletrônicos;1;1258;2025-05-15;Nordeste;1258
+136;1520;Camisa;Casa;4;1455;2025-05-16;Norte;5820
+137;1343;Geladeira;Esportes;4;545;2025-05-17;Centro-Oeste;2180
+138;1128;Notebook;Esportes;3;1452;2025-05-18;Sudeste;4356
+139;1647;Geladeira;Livros;4;1120;2025-05-19;Centro-Oeste;4480
+140;1471;Notebook;Esportes;4;1959;2025-05-20;Sul;7836
+141;1062;Geladeira;Eletrônicos;4;1813;2025-05-21;Norte;7252
+142;1138;Fone de ouvido;Eletrônicos;1;1624;2025-05-22;Sudeste;1624
+143;1498;Notebook;Livros;1;1601;2025-05-23;Norte;1601
+144;1592;Smartphone;Livros;1;553;2025-05-24;Norte;553
+145;1391;Tênis;Livros;4;1095;2025-05-25;Nordeste;4380
+146;1674;Tênis;Casa;1;262;2025-05-26;Sul;262
+147;1418;Livro;Esportes;4;359;2025-05-27;Norte;1436
+148;1288;Tênis;Livros;1;710;2025-05-28;Centro-Oeste;710
+149;1378;Camisa;Moda;1;802;2025-05-29;Centro-Oeste;802
+150;1772;Fone de ouvido;Moda;2;321;2025-05-30;Nordeste;642
+151;1489;Geladeira;Eletrônicos;3;1644;2025-05-31;Sul;4932
+152;1230;Livro;Esportes;4;1872;2025-06-01;Sul;7488
+153;1040;Camisa;Livros;2;987;2025-06-02;Centro-Oeste;1974
+154;1027;Camisa;Moda;1;1275;2025-06-03;Sudeste;1275
+155;1134;Notebook;Esportes;4;81;2025-06-04;Nordeste;324
+156;1200;Tênis;Eletrônicos;1;492;2025-06-05;Nordeste;492
+157;1839;Smartphone;Casa;3;211;2025-06-06;Centro-Oeste;633
+158;1779;Smartphone;Esportes;2;816;2025-06-07;Centro-Oeste;1632
+159;1929;Livro;Esportes;3;303;2025-06-08;Sudeste;909
+160;1032;Fone de ouvido;Casa;2;570;2025-06-09;Sudeste;1140
+161;1047;Smartphone;Esportes;1;1026;2025-06-10;Sul;1026
+162;1502;Geladeira;Eletrônicos;3;1724;2025-06-11;Nordeste;5172
+163;1406;Smartphone;Eletrônicos;3;1553;2025-06-12;Nordeste;4659
+164;1573;Livro;Casa;1;59;2025-06-13;Centro-Oeste;59
+165;1727;Smartphone;Livros;3;775;2025-06-14;Sul;2325
+166;1804;Geladeira;Moda;4;554;2025-06-15;Nordeste;2216
+167;1098;Notebook;Livros;2;834;2025-06-16;Sul;1668
+168;1683;Fone de ouvido;Esportes;2;1909;2025-06-17;Sul;3818
+169;1871;Livro;Moda;2;1633;2025-06-18;Centro-Oeste;3266
+170;1725;Notebook;Casa;4;485;2025-06-19;Sul;1940
+171;1986;Notebook;Casa;2;1184;2025-06-20;Sudeste;2368
+172;1546;Notebook;Moda;1;202;2025-06-21;Sudeste;202
+173;1960;Camisa;Eletrônicos;3;1708;2025-06-22;Norte;5124
+174;1738;Fone de ouvido;Moda;4;966;2025-06-23;Centro-Oeste;3864
+175;1612;Tênis;Esportes;2;918;2025-06-24;Norte;1836
+176;1942;Fone de ouvido;Eletrônicos;1;1175;2025-06-25;Sudeste;1175
+177;1461;Camisa;Casa;3;802;2025-06-26;Norte;2406
+178;1642;Tênis;Moda;3;1906;2025-06-27;Centro-Oeste;5718
+179;1768;Fone de ouvido;Livros;4;1264;2025-06-28;Centro-Oeste;5056
+180;1004;Notebook;Livros;4;1802;2025-06-29;Sul;7208
+181;1217;Livro;Esportes;4;612;2025-06-30;Nordeste;2448
+182;1502;Tênis;Livros;1;1877;2025-07-01;Sul;1877
+183;1766;Geladeira;Moda;1;1154;2025-07-02;Centro-Oeste;1154
+184;1397;Geladeira;Moda;4;538;2025-07-03;Sudeste;2152
+185;1870;Smartphone;Livros;2;944;2025-07-04;Sudeste;1888
+186;1794;Tênis;Moda;3;1161;2025-07-05;Sul;3483
+187;1392;Livro;Esportes;3;1267;2025-07-06;Centro-Oeste;3801
+188;1206;Camisa;Eletrônicos;1;153;2025-07-07;Sudeste;153
+189;1014;Notebook;Esportes;3;1856;2025-07-08;Centro-Oeste;5568
+190;1857;Smartphone;Esportes;2;1169;2025-07-09;Sudeste;2338
+191;1553;Geladeira;Moda;3;1496;2025-07-10;Centro-Oeste;4488
+192;1891;Camisa;Eletrônicos;1;1964;2025-07-11;Norte;1964
+193;1460;Camisa;Moda;1;1271;2025-07-12;Centro-Oeste;1271
+194;1690;Notebook;Casa;2;1074;2025-07-13;Centro-Oeste;2148
+195;1574;Tênis;Moda;2;1056;2025-07-14;Sul;2112
+196;1863;Geladeira;Moda;3;456;2025-07-15;Norte;1368
+197;1742;Livro;Moda;3;1451;2025-07-16;Nordeste;4353
+198;1240;Camisa;Eletrônicos;1;216;2025-07-17;Sul;216
+199;1563;Notebook;Moda;2;558;2025-07-18;Nordeste;1116
+200;1095;Livro;Eletrônicos;2;1711;2025-07-19;Sudeste;3422
+201;1899;Tênis;Livros;2;362;2025-07-20;Nordeste;724
+202;1733;Geladeira;Casa;3;1666;2025-07-21;Centro-Oeste;4998
+203;1484;Tênis;Eletrônicos;2;1491;2025-07-22;Nordeste;2982
+204;1406;Camisa;Livros;1;812;2025-07-23;Sul;812
+205;1230;Livro;Eletrônicos;1;730;2025-07-24;Sul;730
+206;1748;Livro;Eletrônicos;3;526;2025-07-25;Nordeste;1578
+207;1654;Livro;Casa;4;122;2025-07-26;Sul;488
+208;1170;Camisa;Esportes;3;1214;2025-07-27;Sul;3642
+209;1540;Camisa;Esportes;4;631;2025-07-28;Nordeste;2524
+210;1035;Tênis;Eletrônicos;2;311;2025-07-29;Norte;622
+211;1524;Smartphone;Moda;3;1413;2025-07-30;Norte;4239
+212;1159;Tênis;Livros;1;1381;2025-07-31;Sudeste;1381
+213;1838;Geladeira;Moda;2;294;2025-08-01;Sul;588
+214;1698;Notebook;Moda;1;1588;2025-08-02;Nordeste;1588
+215;1242;Livro;Eletrônicos;2;1410;2025-08-03;Sul;2820
+216;1085;Smartphone;Eletrônicos;3;1648;2025-08-04;Centro-Oeste;4944
+217;1795;Notebook;Eletrônicos;4;610;2025-08-05;Sul;2440
+218;1577;Smartphone;Eletrônicos;2;1149;2025-08-06;Sul;2298
+219;1681;Fone de ouvido;Esportes;4;1953;2025-08-07;Norte;7812
+220;1556;Tênis;Eletrônicos;2;224;2025-08-08;Nordeste;448
+221;1573;Camisa;Esportes;1;158;2025-08-09;Sul;158
+222;1952;Livro;Esportes;1;232;2025-08-10;Norte;232
+223;1645;Tênis;Eletrônicos;2;241;2025-08-11;Sudeste;482
+224;1795;Notebook;Casa;4;114;2025-08-12;Norte;456
+225;1027;Fone de ouvido;Livros;3;1922;2025-08-13;Norte;5766
+226;1619;Fone de ouvido;Moda;3;1012;2025-08-14;Norte;3036
+227;1555;Fone de ouvido;Esportes;1;1547;2025-08-15;Sul;1547
+228;1339;Notebook;Livros;3;1856;2025-08-16;Sul;5568
+229;1797;Notebook;Casa;1;1173;2025-08-17;Sudeste;1173
+230;1957;Notebook;Moda;3;1617;2025-08-18;Centro-Oeste;4851
+231;1330;Notebook;Moda;2;913;2025-08-19;Centro-Oeste;1826
+232;1639;Fone de ouvido;Esportes;1;1201;2025-08-20;Centro-Oeste;1201
+233;1505;Fone de ouvido;Eletrônicos;1;1525;2025-08-21;Sudeste;1525
+234;1347;Smartphone;Casa;2;1987;2025-08-22;Centro-Oeste;3974
+235;1472;Tênis;Esportes;1;418;2025-08-23;Centro-Oeste;418
+236;1230;Livro;Casa;3;900;2025-08-24;Norte;2700
+237;1189;Camisa;Eletrônicos;3;92;2025-08-25;Sul;276
+238;1224;Fone de ouvido;Eletrônicos;1;1957;2025-08-26;Sul;1957
+239;1384;Camisa;Esportes;3;1492;2025-08-27;Norte;4476
+240;1376;Tênis;Eletrônicos;4;537;2025-08-28;Norte;2148
+241;1282;Tênis;Livros;1;127;2025-08-29;Norte;127
+242;1957;Camisa;Moda;2;875;2025-08-30;Sul;1750
+243;1632;Fone de ouvido;Esportes;4;1874;2025-08-31;Centro-Oeste;7496
+244;1627;Camisa;Casa;1;1343;2025-09-01;Norte;1343
+245;1972;Smartphone;Livros;2;723;2025-09-02;Sudeste;1446
+246;1744;Geladeira;Esportes;3;750;2025-09-03;Norte;2250
+247;1258;Fone de ouvido;Eletrônicos;2;808;2025-09-04;Nordeste;1616
+248;1358;Fone de ouvido;Eletrônicos;4;1973;2025-09-05;Norte;7892
+249;1709;Livro;Eletrônicos;3;777;2025-09-06;Sul;2331
+250;1455;Notebook;Eletrônicos;1;1388;2025-09-07;Norte;1388
+251;1410;Geladeira;Casa;3;974;2025-09-08;Nordeste;2922
+252;1648;Tênis;Livros;1;1924;2025-09-09;Sudeste;1924
+253;1317;Fone de ouvido;Moda;1;951;2025-09-10;Centro-Oeste;951
+254;1676;Camisa;Casa;2;938;2025-09-11;Norte;1876
+255;1224;Geladeira;Casa;2;1042;2025-09-12;Nordeste;2084
+256;1818;Livro;Moda;2;1241;2025-09-13;Nordeste;2482
+257;1233;Tênis;Moda;4;388;2025-09-14;Sudeste;1552
+258;1683;Notebook;Eletrônicos;4;242;2025-09-15;Sul;968
+259;1663;Notebook;Casa;2;1526;2025-09-16;Norte;3052
+260;1974;Livro;Esportes;4;332;2025-09-17;Nordeste;1328
+261;1826;Livro;Moda;3;1409;2025-09-18;Sudeste;4227
+262;1373;Camisa;Moda;3;439;2025-09-19;Centro-Oeste;1317
+263;1671;Fone de ouvido;Livros;4;1049;2025-09-20;Nordeste;4196
+264;1607;Notebook;Esportes;4;574;2025-09-21;Sudeste;2296
+265;1471;Tênis;Esportes;3;1313;2025-09-22;Sul;3939
+266;1232;Geladeira;Moda;1;1905;2025-09-23;Sul;1905
+267;1691;Tênis;Eletrônicos;3;1556;2025-09-24;Nordeste;4668
+268;1112;Smartphone;Livros;3;708;2025-09-25;Nordeste;2124
+269;1829;Smartphone;Esportes;4;765;2025-09-26;Norte;3060
+270;1496;Livro;Moda;3;1665;2025-09-27;Sudeste;4995
+271;1441;Camisa;Esportes;4;940;2025-09-28;Nordeste;3760
+272;1563;Smartphone;Livros;4;1628;2025-09-29;Norte;6512
+273;1267;Notebook;Livros;2;1531;2025-09-30;Norte;3062
+274;1509;Tênis;Casa;3;1162;2025-10-01;Nordeste;3486
+275;1806;Tênis;Moda;1;1733;2025-10-02;Sul;1733
+276;1385;Livro;Livros;2;1168;2025-10-03;Sudeste;2336
+277;1386;Fone de ouvido;Casa;4;501;2025-10-04;Sudeste;2004
+278;1112;Fone de ouvido;Casa;4;477;2025-10-05;Sul;1908
+279;1612;Geladeira;Esportes;1;1224;2025-10-06;Nordeste;1224
+280;1624;Livro;Esportes;4;1587;2025-10-07;Sudeste;6348
+281;1951;Geladeira;Casa;3;1449;2025-10-08;Nordeste;4347
+282;1080;Fone de ouvido;Esportes;2;1095;2025-10-09;Nordeste;2190
+283;1698;Livro;Livros;4;932;2025-10-10;Norte;3728
+284;1112;Livro;Eletrônicos;4;362;2025-10-11;Sul;1448
+285;1001;Livro;Livros;1;889;2025-10-12;Nordeste;889
+286;1641;Fone de ouvido;Casa;3;568;2025-10-13;Centro-Oeste;1704
+287;1219;Geladeira;Casa;4;1279;2025-10-14;Sul;5116
+288;1565;Geladeira;Livros;1;424;2025-10-15;Sudeste;424
+289;1854;Livro;Esportes;4;500;2025-10-16;Norte;2000
+290;1996;Smartphone;Esportes;1;1699;2025-10-17;Sudeste;1699
+291;1735;Camisa;Casa;1;1857;2025-10-18;Sudeste;1857
+292;1224;Fone de ouvido;Moda;3;1064;2025-10-19;Sul;3192
+293;1384;Camisa;Esportes;4;644;2025-10-20;Sudeste;2576
+294;1402;Camisa;Livros;3;1252;2025-10-21;Nordeste;3756
+295;1637;Geladeira;Esportes;1;1283;2025-10-22;Sudeste;1283
+296;1129;Geladeira;Livros;2;549;2025-10-23;Norte;1098
+297;1052;Smartphone;Casa;4;513;2025-10-24;Norte;2052
+298;1683;Camisa;Esportes;2;1913;2025-10-25;Centro-Oeste;3826
+299;1729;Camisa;Livros;4;1197;2025-10-26;Norte;4788
+300;1671;Livro;Casa;3;162;2025-10-27;Sudeste;486
+301;1709;Geladeira;Moda;3;1085;2025-10-28;Norte;3255
+302;1415;Camisa;Livros;3;1199;2025-10-29;Sul;3597
+303;1246;Tênis;Moda;3;1638;2025-10-30;Norte;4914
+304;1835;Smartphone;Moda;3;380;2025-10-31;Nordeste;1140
+305;1438;Tênis;Eletrônicos;2;1974;2025-11-01;Sul;3948
+306;1202;Tênis;Esportes;3;1356;2025-11-02;Centro-Oeste;4068
+307;1183;Fone de ouvido;Livros;1;189;2025-11-03;Nordeste;189
+308;1122;Fone de ouvido;Moda;1;1474;2025-11-04;Sudeste;1474
+309;1400;Smartphone;Eletrônicos;2;951;2025-11-05;Sudeste;1902
+310;1766;Tênis;Casa;4;1170;2025-11-06;Sudeste;4680
+311;1293;Camisa;Livros;1;566;2025-11-07;Nordeste;566
+312;1279;Geladeira;Moda;4;618;2025-11-08;Nordeste;2472
+313;1836;Smartphone;Esportes;2;1997;2025-11-09;Nordeste;3994
+314;1883;Livro;Eletrônicos;4;895;2025-11-10;Sul;3580
+315;1609;Tênis;Moda;4;1142;2025-11-11;Sul;4568
+316;1197;Smartphone;Esportes;4;167;2025-11-12;Sudeste;668
+317;1981;Notebook;Moda;4;937;2025-11-13;Norte;3748
+318;1906;Notebook;Livros;2;1132;2025-11-14;Sudeste;2264
+319;1510;Fone de ouvido;Livros;1;1106;2025-11-15;Centro-Oeste;1106
+320;1751;Geladeira;Livros;3;1391;2025-11-16;Sul;4173
+321;1143;Camisa;Eletrônicos;4;99;2025-11-17;Nordeste;396
+322;1608;Geladeira;Livros;1;1953;2025-11-18;Sul;1953
+323;1200;Geladeira;Esportes;1;1562;2025-11-19;Nordeste;1562
+324;1123;Geladeira;Moda;2;68;2025-11-20;Centro-Oeste;136
+325;1186;Geladeira;Casa;1;775;2025-11-21;Centro-Oeste;775
+326;1325;Livro;Esportes;2;246;2025-11-22;Sul;492
+327;1463;Livro;Esportes;4;1964;2025-11-23;Nordeste;7856
+328;1348;Fone de ouvido;Livros;4;1523;2025-11-24;Centro-Oeste;6092
+329;1770;Smartphone;Eletrônicos;3;608;2025-11-25;Sudeste;1824
+330;1659;Notebook;Moda;3;1752;2025-11-26;Sudeste;5256
+331;1763;Geladeira;Eletrônicos;3;501;2025-11-27;Nordeste;1503
+332;1954;Fone de ouvido;Moda;1;338;2025-11-28;Sul;338
+333;1931;Smartphone;Moda;4;1214;2025-11-29;Centro-Oeste;4856
+334;1402;Notebook;Eletrônicos;2;1157;2025-11-30;Sul;2314
+335;1345;Tênis;Esportes;3;1767;2025-12-01;Sudeste;5301
+336;1962;Camisa;Moda;2;440;2025-12-02;Centro-Oeste;880
+337;1510;Livro;Eletrônicos;2;1664;2025-12-03;Sul;3328
+338;1146;Tênis;Moda;3;264;2025-12-04;Norte;792
+339;1147;Notebook;Casa;4;1599;2025-12-05;Nordeste;6396
+340;1863;Tênis;Esportes;3;264;2025-12-06;Nordeste;792
+341;1710;Camisa;Livros;2;1476;2025-12-07;Norte;2952
+342;1819;Fone de ouvido;Moda;3;177;2025-12-08;Sudeste;531
+343;1488;Notebook;Casa;2;1895;2025-12-09;Centro-Oeste;3790
+344;1928;Tênis;Livros;2;1550;2025-12-10;Nordeste;3100
+345;1935;Livro;Livros;3;809;2025-12-11;Norte;2427
+346;1639;Livro;Moda;1;453;2025-12-12;Norte;453
+347;1550;Smartphone;Eletrônicos;3;1102;2025-12-13;Sudeste;3306
+348;1337;Tênis;Moda;1;1865;2025-12-14;Sudeste;1865
+349;1871;Geladeira;Casa;2;387;2025-12-15;Sul;774
+350;1640;Tênis;Livros;2;880;2025-12-16;Nordeste;1760
+351;1778;Fone de ouvido;Moda;1;763;2025-12-17;Sul;763
+352;1987;Notebook;Eletrônicos;2;410;2025-12-18;Norte;820
+353;1952;Notebook;Moda;1;618;2025-12-19;Centro-Oeste;618
+354;1472;Fone de ouvido;Esportes;1;1465;2025-12-20;Centro-Oeste;1465
+355;1945;Tênis;Eletrônicos;2;267;2025-12-21;Sudeste;534
+356;1150;Fone de ouvido;Casa;4;1647;2025-12-22;Centro-Oeste;6588
+357;1414;Camisa;Livros;1;1742;2025-12-23;Centro-Oeste;1742
+358;1989;Fone de ouvido;Moda;3;251;2025-12-24;Centro-Oeste;753
+359;1297;Livro;Eletrônicos;3;66;2025-12-25;Norte;198
+360;1610;Fone de ouvido;Esportes;2;371;2025-12-26;Centro-Oeste;742
+361;1262;Notebook;Eletrônicos;4;567;2025-12-27;Centro-Oeste;2268
+362;1763;Livro;Esportes;2;1643;2025-12-28;Centro-Oeste;3286
+363;1143;Notebook;Casa;4;1398;2025-12-29;Sul;5592
+364;1345;Smartphone;Livros;1;1485;2025-12-30;Norte;1485
+365;1623;Geladeira;Casa;1;1391;2025-12-31;Sudeste;1391
+366;1571;Notebook;Moda;1;730;2026-01-01;Sul;730
+367;1880;Livro;Eletrônicos;1;1155;2026-01-02;Nordeste;1155
+368;1001;Smartphone;Esportes;3;1547;2026-01-03;Norte;4641
+369;1896;Notebook;Esportes;3;1541;2026-01-04;Norte;4623
+370;1303;Camisa;Eletrônicos;2;474;2026-01-05;Nordeste;948
+371;1253;Fone de ouvido;Eletrônicos;4;1804;2026-01-06;Nordeste;7216
+372;1651;Geladeira;Moda;1;1762;2026-01-07;Nordeste;1762
+373;1452;Notebook;Casa;1;1277;2026-01-08;Sudeste;1277
+374;1036;Smartphone;Esportes;4;1656;2026-01-09;Centro-Oeste;6624
+375;1159;Camisa;Moda;4;1068;2026-01-10;Norte;4272
+376;1008;Tênis;Casa;2;436;2026-01-11;Centro-Oeste;872
+377;1232;Smartphone;Moda;4;827;2026-01-12;Centro-Oeste;3308
+378;1098;Fone de ouvido;Esportes;1;147;2026-01-13;Nordeste;147
+379;1658;Smartphone;Eletrônicos;1;1418;2026-01-14;Sudeste;1418
+380;1815;Camisa;Eletrônicos;1;1876;2026-01-15;Sul;1876
+381;1207;Smartphone;Casa;1;257;2026-01-16;Sudeste;257
+382;1130;Camisa;Livros;1;1587;2026-01-17;Centro-Oeste;1587
+383;1403;Notebook;Casa;2;1709;2026-01-18;Sudeste;3418
+384;1151;Camisa;Livros;1;1865;2026-01-19;Nordeste;1865
+385;1053;Camisa;Moda;2;635;2026-01-20;Sul;1270
+386;1119;Geladeira;Moda;1;215;2026-01-21;Nordeste;215
+387;1672;Camisa;Esportes;3;71;2026-01-22;Sul;213
+388;1919;Camisa;Livros;3;203;2026-01-23;Centro-Oeste;609
+389;1627;Tênis;Esportes;3;1512;2026-01-24;Sul;4536
+390;1586;Notebook;Eletrônicos;3;1368;2026-01-25;Sul;4104
+391;1624;Fone de ouvido;Livros;2;268;2026-01-26;Sul;536
+392;1967;Geladeira;Casa;2;718;2026-01-27;Sudeste;1436
+393;1419;Tênis;Eletrônicos;4;1568;2026-01-28;Sudeste;6272
+394;1421;Livro;Eletrônicos;1;279;2026-01-29;Centro-Oeste;279
+395;1103;Notebook;Casa;3;69;2026-01-30;Sul;207
+396;1851;Notebook;Eletrônicos;2;602;2026-01-31;Norte;1204
+397;1253;Livro;Livros;1;999;2026-02-01;Centro-Oeste;999
+398;1226;Fone de ouvido;Esportes;1;197;2026-02-02;Sul;197
+399;1111;Camisa;Eletrônicos;2;1181;2026-02-03;Sul;2362
+400;1509;Tênis;Livros;3;452;2026-02-04;Sudeste;1356
+401;1472;Smartphone;Moda;4;645;2026-02-05;Centro-Oeste;2580
+402;1098;Geladeira;Livros;1;1556;2026-02-06;Sul;1556
+403;1152;Smartphone;Esportes;4;416;2026-02-07;Sul;1664
+404;1860;Livro;Livros;3;1907;2026-02-08;Centro-Oeste;5721
+405;1913;Notebook;Casa;3;1487;2026-02-09;Norte;4461
+406;1895;Fone de ouvido;Esportes;4;1382;2026-02-10;Centro-Oeste;5528
+407;1877;Notebook;Moda;3;851;2026-02-11;Centro-Oeste;2553
+408;1337;Geladeira;Casa;1;967;2026-02-12;Norte;967
+409;1705;Notebook;Livros;4;1908;2026-02-13;Centro-Oeste;7632
+410;1821;Notebook;Esportes;3;1207;2026-02-14;Sul;3621
+411;1162;Geladeira;Moda;4;1792;2026-02-15;Centro-Oeste;7168
+412;1719;Tênis;Casa;1;1356;2026-02-16;Norte;1356
+413;1956;Tênis;Moda;3;1851;2026-02-17;Nordeste;5553
+414;1680;Geladeira;Livros;1;122;2026-02-18;Centro-Oeste;122
+415;1995;Fone de ouvido;Moda;3;530;2026-02-19;Sudeste;1590
+416;1160;Livro;Eletrônicos;2;1425;2026-02-20;Sul;2850
+417;1579;Notebook;Casa;3;609;2026-02-21;Sul;1827
+418;1800;Fone de ouvido;Moda;4;1399;2026-02-22;Sudeste;5596
+419;1397;Notebook;Livros;3;794;2026-02-23;Sudeste;2382
+420;1276;Livro;Livros;1;1516;2026-02-24;Centro-Oeste;1516
+421;1815;Tênis;Moda;1;149;2026-02-25;Sudeste;149
+422;1915;Fone de ouvido;Livros;3;1132;2026-02-26;Nordeste;3396
+423;1503;Camisa;Esportes;4;557;2026-02-27;Norte;2228
+424;1895;Camisa;Esportes;2;307;2026-02-28;Sudeste;614
+425;1391;Camisa;Esportes;4;462;2026-03-01;Sudeste;1848
+426;1134;Tênis;Eletrônicos;2;1525;2026-03-02;Nordeste;3050
+427;1194;Tênis;Moda;1;1138;2026-03-03;Sul;1138
+428;1400;Livro;Eletrônicos;4;644;2026-03-04;Sul;2576
+429;1639;Notebook;Livros;2;1227;2026-03-05;Centro-Oeste;2454
+430;1032;Livro;Eletrônicos;3;315;2026-03-06;Nordeste;945
+431;1687;Livro;Livros;1;870;2026-03-07;Norte;870
+432;1459;Tênis;Livros;3;1152;2026-03-08;Norte;3456
+433;1954;Camisa;Casa;1;1388;2026-03-09;Nordeste;1388
+434;1882;Smartphone;Esportes;4;711;2026-03-10;Norte;2844
+435;1469;Notebook;Livros;4;996;2026-03-11;Sul;3984
+436;1374;Tênis;Casa;1;609;2026-03-12;Norte;609
+437;1021;Camisa;Esportes;1;966;2026-03-13;Norte;966
+438;1749;Fone de ouvido;Livros;1;940;2026-03-14;Nordeste;940
+439;1669;Smartphone;Livros;4;1321;2026-03-15;Nordeste;5284
+440;1037;Smartphone;Eletrônicos;2;1863;2026-03-16;Norte;3726
+441;1229;Tênis;Eletrônicos;3;917;2026-03-17;Sudeste;2751
+442;1364;Geladeira;Esportes;3;659;2026-03-18;Nordeste;1977
+443;1562;Notebook;Livros;4;463;2026-03-19;Centro-Oeste;1852
+444;1437;Smartphone;Moda;3;74;2026-03-20;Centro-Oeste;222
+445;1775;Tênis;Eletrônicos;1;333;2026-03-21;Sul;333
+446;1282;Tênis;Esportes;2;1522;2026-03-22;Norte;3044
+447;1026;Camisa;Livros;3;930;2026-03-23;Sudeste;2790
+448;1225;Fone de ouvido;Livros;2;350;2026-03-24;Sul;700
+449;1276;Geladeira;Moda;1;1141;2026-03-25;Norte;1141
+450;1797;Notebook;Esportes;3;1080;2026-03-26;Nordeste;3240
+451;1608;Livro;Livros;4;866;2026-03-27;Centro-Oeste;3464
+452;1283;Fone de ouvido;Eletrônicos;2;1210;2026-03-28;Sudeste;2420
+453;1878;Fone de ouvido;Moda;1;1237;2026-03-29;Centro-Oeste;1237
+454;1959;Camisa;Esportes;2;132;2026-03-30;Nordeste;264
+455;1480;Smartphone;Moda;3;1970;2026-03-31;Norte;5910
+456;1452;Smartphone;Eletrônicos;3;1723;2026-04-01;Nordeste;5169
+457;1828;Camisa;Esportes;4;1493;2026-04-02;Nordeste;5972
+458;1815;Tênis;Moda;1;1146;2026-04-03;Centro-Oeste;1146
+459;1658;Smartphone;Casa;1;1310;2026-04-04;Sudeste;1310
+460;1515;Geladeira;Eletrônicos;4;95;2026-04-05;Nordeste;380
+461;1546;Notebook;Eletrônicos;4;667;2026-04-06;Centro-Oeste;2668
+462;1191;Fone de ouvido;Eletrônicos;1;977;2026-04-07;Sudeste;977
+463;1048;Fone de ouvido;Casa;2;1873;2026-04-08;Norte;3746
+464;1511;Geladeira;Casa;2;311;2026-04-09;Norte;622
+465;1016;Smartphone;Livros;4;225;2026-04-10;Sul;900
+466;1171;Fone de ouvido;Moda;2;1239;2026-04-11;Centro-Oeste;2478
+467;1219;Livro;Livros;1;706;2026-04-12;Sudeste;706
+468;1157;Notebook;Moda;3;891;2026-04-13;Nordeste;2673
+469;1476;Notebook;Casa;3;419;2026-04-14;Norte;1257
+470;1045;Fone de ouvido;Casa;2;1868;2026-04-15;Sudeste;3736
+471;1372;Camisa;Livros;4;103;2026-04-16;Centro-Oeste;412
+472;1517;Fone de ouvido;Esportes;4;739;2026-04-17;Sul;2956
+473;1098;Camisa;Livros;4;1492;2026-04-18;Norte;5968
+474;1891;Fone de ouvido;Moda;4;1829;2026-04-19;Sudeste;7316
+475;1744;Livro;Livros;4;1580;2026-04-20;Sudeste;6320
+476;1036;Tênis;Eletrônicos;2;1414;2026-04-21;Sudeste;2828
+477;1279;Notebook;Moda;3;1200;2026-04-22;Centro-Oeste;3600
+478;1348;Fone de ouvido;Moda;3;1482;2026-04-23;Centro-Oeste;4446
+479;1496;Livro;Esportes;2;1997;2026-04-24;Centro-Oeste;3994
+480;1301;Camisa;Casa;4;416;2026-04-25;Nordeste;1664
+481;1180;Camisa;Moda;2;1344;2026-04-26;Sudeste;2688
+482;1606;Notebook;Casa;3;693;2026-04-27;Norte;2079
+483;1098;Geladeira;Livros;1;1678;2026-04-28;Centro-Oeste;1678
+484;1699;Fone de ouvido;Eletrônicos;2;428;2026-04-29;Centro-Oeste;856
+485;1992;Smartphone;Esportes;4;122;2026-04-30;Sudeste;488
+486;1115;Camisa;Casa;3;1996;2026-05-01;Centro-Oeste;5988
+487;1190;Tênis;Moda;3;1995;2026-05-02;Nordeste;5985
+488;1252;Tênis;Casa;3;964;2026-05-03;Nordeste;2892
+489;1980;Camisa;Moda;3;1321;2026-05-04;Centro-Oeste;3963
+490;1927;Geladeira;Casa;4;909;2026-05-05;Sudeste;3636
+491;1982;Geladeira;Moda;1;1858;2026-05-06;Sudeste;1858
+492;1160;Livro;Livros;3;92;2026-05-07;Sudeste;276
+493;1255;Tênis;Moda;2;426;2026-05-08;Sul;852
+494;1322;Livro;Moda;1;1114;2026-05-09;Centro-Oeste;1114
+495;1127;Tênis;Eletrônicos;3;219;2026-05-10;Sudeste;657
+496;1017;Fone de ouvido;Moda;1;261;2026-05-11;Nordeste;261
+497;1792;Fone de ouvido;Eletrônicos;2;1566;2026-05-12;Norte;3132
+498;1734;Smartphone;Esportes;3;1753;2026-05-13;Norte;5259
+499;1565;Fone de ouvido;Eletrônicos;2;88;2026-05-14;Sudeste;176
+500;1569;Smartphone;Livros;4;418;2026-05-15;Norte;1672
+501;1322;Fone de ouvido;Eletrônicos;3;806;2026-05-16;Norte;2418
+502;1871;Notebook;Esportes;3;200;2026-05-17;Sul;600
+503;1685;Fone de ouvido;Livros;3;1184;2026-05-18;Nordeste;3552
+504;1791;Livro;Casa;3;1553;2026-05-19;Nordeste;4659
+505;1625;Camisa;Casa;4;1509;2026-05-20;Sul;6036
+506;1287;Livro;Eletrônicos;3;1120;2026-05-21;Sul;3360
+507;1942;Camisa;Eletrônicos;1;1073;2026-05-22;Norte;1073
+508;1853;Geladeira;Esportes;3;1648;2026-05-23;Centro-Oeste;4944
+509;1662;Livro;Esportes;4;786;2026-05-24;Norte;3144
+510;1961;Geladeira;Moda;3;1439;2026-05-25;Sul;4317
+511;1638;Smartphone;Esportes;1;118;2026-05-26;Nordeste;118
+512;1154;Smartphone;Moda;4;348;2026-05-27;Norte;1392
+513;1489;Notebook;Livros;4;993;2026-05-28;Centro-Oeste;3972
+514;1385;Fone de ouvido;Eletrônicos;1;851;2026-05-29;Norte;851
+515;1985;Livro;Livros;1;345;2026-05-30;Sudeste;345
+516;1784;Geladeira;Esportes;1;252;2026-05-31;Norte;252
+517;1103;Camisa;Livros;1;110;2026-06-01;Sul;110
+518;1928;Smartphone;Livros;1;995;2026-06-02;Nordeste;995
+519;1392;Fone de ouvido;Livros;4;1012;2026-06-03;Nordeste;4048
+520;1810;Smartphone;Esportes;4;1903;2026-06-04;Sul;7612
+521;1245;Camisa;Livros;3;1387;2026-06-05;Sudeste;4161
+522;1175;Fone de ouvido;Moda;3;1234;2026-06-06;Sul;3702
+523;1038;Fone de ouvido;Esportes;2;380;2026-06-07;Norte;760
+524;1476;Geladeira;Livros;3;1601;2026-06-08;Sul;4803
+525;1681;Geladeira;Esportes;3;387;2026-06-09;Sul;1161
+526;1758;Livro;Casa;1;1679;2026-06-10;Sudeste;1679
+527;1537;Livro;Moda;1;1377;2026-06-11;Norte;1377
+528;1866;Tênis;Livros;3;1576;2026-06-12;Centro-Oeste;4728
+529;1817;Tênis;Casa;2;1723;2026-06-13;Centro-Oeste;3446
+530;1920;Notebook;Casa;1;1411;2026-06-14;Nordeste;1411
+531;1407;Smartphone;Esportes;3;1623;2026-06-15;Sul;4869
+532;1524;Livro;Casa;3;688;2026-06-16;Nordeste;2064
+533;1827;Geladeira;Moda;4;324;2026-06-17;Sudeste;1296
+534;1505;Camisa;Moda;2;1237;2026-06-18;Centro-Oeste;2474
+535;1902;Geladeira;Eletrônicos;4;1516;2026-06-19;Sul;6064
+536;1824;Smartphone;Moda;2;368;2026-06-20;Sudeste;736
+537;1035;Tênis;Casa;1;638;2026-06-21;Sudeste;638
+538;1684;Geladeira;Moda;2;553;2026-06-22;Sul;1106
+539;1019;Notebook;Esportes;3;1759;2026-06-23;Sudeste;5277
+540;1320;Smartphone;Eletrônicos;3;436;2026-06-24;Sul;1308
+541;1775;Tênis;Casa;2;919;2026-06-25;Sul;1838
+542;1511;Camisa;Eletrônicos;2;882;2026-06-26;Norte;1764
+543;1399;Tênis;Casa;2;1064;2026-06-27;Nordeste;2128
+544;1653;Fone de ouvido;Esportes;4;1961;2026-06-28;Sudeste;7844
+545;1971;Notebook;Eletrônicos;2;652;2026-06-29;Sudeste;1304
+546;1882;Smartphone;Livros;1;1823;2026-06-30;Norte;1823
+547;1470;Camisa;Casa;4;1849;2026-07-01;Norte;7396
+548;1142;Notebook;Livros;4;740;2026-07-02;Norte;2960
+549;1091;Tênis;Eletrônicos;2;543;2026-07-03;Centro-Oeste;1086
+550;1353;Notebook;Livros;1;539;2026-07-04;Centro-Oeste;539
+551;1833;Smartphone;Livros;4;770;2026-07-05;Centro-Oeste;3080
+552;1799;Livro;Eletrônicos;3;1146;2026-07-06;Sul;3438
+553;1726;Notebook;Esportes;4;558;2026-07-07;Sudeste;2232
+554;1958;Fone de ouvido;Livros;2;439;2026-07-08;Nordeste;878
+555;1853;Notebook;Livros;1;1692;2026-07-09;Sul;1692
+556;1050;Tênis;Esportes;2;1930;2026-07-10;Sudeste;3860
+557;1664;Tênis;Livros;3;344;2026-07-11;Sudeste;1032
+558;1697;Camisa;Livros;3;1442;2026-07-12;Norte;4326
+559;1574;Tênis;Livros;3;845;2026-07-13;Norte;2535
+560;1189;Geladeira;Moda;2;914;2026-07-14;Sul;1828
+561;1124;Smartphone;Esportes;4;1767;2026-07-15;Norte;7068
+562;1149;Smartphone;Livros;2;598;2026-07-16;Sudeste;1196
+563;1313;Livro;Esportes;1;698;2026-07-17;Norte;698
+564;1569;Livro;Casa;4;1923;2026-07-18;Centro-Oeste;7692
+565;1341;Smartphone;Casa;3;617;2026-07-19;Norte;1851
+566;1304;Fone de ouvido;Livros;2;1260;2026-07-20;Sudeste;2520
+567;1691;Livro;Esportes;3;902;2026-07-21;Sul;2706
+568;1681;Camisa;Esportes;3;819;2026-07-22;Nordeste;2457
+569;1837;Tênis;Esportes;1;494;2026-07-23;Norte;494
+570;1782;Smartphone;Moda;4;1643;2026-07-24;Sudeste;6572
+571;1053;Livro;Casa;1;412;2026-07-25;Nordeste;412
+572;1443;Smartphone;Esportes;1;172;2026-07-26;Nordeste;172
+573;1612;Geladeira;Esportes;1;1261;2026-07-27;Centro-Oeste;1261
+574;1992;Notebook;Moda;3;791;2026-07-28;Nordeste;2373
+575;1263;Tênis;Moda;1;729;2026-07-29;Sudeste;729
+576;1052;Smartphone;Esportes;1;469;2026-07-30;Sudeste;469
+577;1571;Notebook;Eletrônicos;4;1699;2026-07-31;Norte;6796
+578;1619;Livro;Esportes;4;1325;2026-08-01;Norte;5300
+579;1004;Notebook;Esportes;1;1692;2026-08-02;Norte;1692
+580;1102;Tênis;Moda;4;1622;2026-08-03;Nordeste;6488
+581;1195;Smartphone;Moda;4;1408;2026-08-04;Nordeste;5632
+582;1773;Geladeira;Esportes;1;141;2026-08-05;Centro-Oeste;141
+583;1876;Fone de ouvido;Esportes;3;1603;2026-08-06;Norte;4809
+584;1991;Livro;Esportes;1;1939;2026-08-07;Sul;1939
+585;1883;Smartphone;Moda;4;112;2026-08-08;Centro-Oeste;448
+586;1349;Tênis;Esportes;3;1735;2026-08-09;Sul;5205
+587;1046;Livro;Esportes;2;561;2026-08-10;Nordeste;1122
+588;1866;Camisa;Livros;3;1212;2026-08-11;Centro-Oeste;3636
+589;1822;Notebook;Eletrônicos;4;1771;2026-08-12;Centro-Oeste;7084
+590;1935;Fone de ouvido;Casa;3;1258;2026-08-13;Sudeste;3774
+591;1819;Tênis;Eletrônicos;1;1278;2026-08-14;Nordeste;1278
+592;1655;Camisa;Livros;2;821;2026-08-15;Nordeste;1642
+593;1268;Smartphone;Casa;2;1287;2026-08-16;Centro-Oeste;2574
+594;1369;Geladeira;Esportes;2;305;2026-08-17;Nordeste;610
+595;1635;Livro;Livros;4;184;2026-08-18;Centro-Oeste;736
+596;1105;Notebook;Esportes;4;1646;2026-08-19;Sudeste;6584
+597;1669;Livro;Moda;2;924;2026-08-20;Centro-Oeste;1848
+598;1658;Fone de ouvido;Livros;3;871;2026-08-21;Nordeste;2613
+599;1656;Smartphone;Moda;2;137;2026-08-22;Nordeste;274
+600;1119;Livro;Livros;3;1909;2026-08-23;Centro-Oeste;5727
+601;1830;Notebook;Livros;3;1037;2026-08-24;Centro-Oeste;3111
+602;1786;Smartphone;Moda;4;1280;2026-08-25;Centro-Oeste;5120
+603;1603;Livro;Casa;3;1202;2026-08-26;Norte;3606
+604;1057;Geladeira;Eletrônicos;2;872;2026-08-27;Nordeste;1744
+605;1950;Tênis;Esportes;4;1076;2026-08-28;Nordeste;4304
+606;1345;Smartphone;Livros;1;1023;2026-08-29;Norte;1023
+607;1740;Tênis;Esportes;1;983;2026-08-30;Centro-Oeste;983
+608;1473;Smartphone;Moda;4;1827;2026-08-31;Sudeste;7308
+609;1116;Geladeira;Esportes;2;170;2026-09-01;Centro-Oeste;340
+610;1829;Tênis;Moda;1;1458;2026-09-02;Centro-Oeste;1458
+611;1790;Camisa;Esportes;1;1687;2026-09-03;Norte;1687
+612;1126;Notebook;Eletrônicos;3;1111;2026-09-04;Nordeste;3333
+613;1392;Camisa;Eletrônicos;3;1414;2026-09-05;Centro-Oeste;4242
+614;1907;Livro;Eletrônicos;2;1057;2026-09-06;Nordeste;2114
+615;1640;Geladeira;Eletrônicos;4;974;2026-09-07;Sul;3896
+616;1057;Camisa;Eletrônicos;2;694;2026-09-08;Nordeste;1388
+617;1633;Smartphone;Eletrônicos;4;763;2026-09-09;Sudeste;3052
+618;1512;Livro;Moda;1;909;2026-09-10;Sudeste;909
+619;1750;Livro;Livros;3;70;2026-09-11;Centro-Oeste;210
+620;1801;Camisa;Esportes;2;291;2026-09-12;Nordeste;582
+621;1095;Camisa;Eletrônicos;2;504;2026-09-13;Centro-Oeste;1008
+622;1637;Geladeira;Moda;4;1012;2026-09-14;Norte;4048
+623;1117;Notebook;Moda;4;670;2026-09-15;Sudeste;2680
+624;1559;Camisa;Moda;2;352;2026-09-16;Centro-Oeste;704
+625;1600;Fone de ouvido;Livros;4;1669;2026-09-17;Norte;6676
+626;1487;Camisa;Esportes;2;1668;2026-09-18;Centro-Oeste;3336
+627;1236;Tênis;Livros;2;852;2026-09-19;Nordeste;1704
+628;1884;Smartphone;Casa;2;1013;2026-09-20;Nordeste;2026
+629;1896;Fone de ouvido;Moda;1;118;2026-09-21;Nordeste;118
+630;1271;Fone de ouvido;Casa;4;1202;2026-09-22;Nordeste;4808
+631;1188;Tênis;Eletrônicos;3;245;2026-09-23;Sul;735
+632;1998;Tênis;Eletrônicos;3;189;2026-09-24;Norte;567
+633;1703;Livro;Livros;4;1517;2026-09-25;Norte;6068
+634;1446;Notebook;Esportes;2;332;2026-09-26;Nordeste;664
+635;1580;Smartphone;Casa;3;361;2026-09-27;Sul;1083
+636;1789;Geladeira;Esportes;3;795;2026-09-28;Nordeste;2385
+637;1860;Fone de ouvido;Livros;4;1608;2026-09-29;Sul;6432
+638;1246;Geladeira;Eletrônicos;3;1738;2026-09-30;Nordeste;5214
+639;1962;Camisa;Esportes;2;326;2026-10-01;Sudeste;652
+640;1075;Camisa;Esportes;4;110;2026-10-02;Sudeste;440
+641;1153;Geladeira;Eletrônicos;2;1392;2026-10-03;Centro-Oeste;2784
+642;1655;Camisa;Casa;3;1963;2026-10-04;Nordeste;5889
+643;1434;Notebook;Eletrônicos;3;101;2026-10-05;Norte;303
+644;1996;Tênis;Esportes;2;1929;2026-10-06;Centro-Oeste;3858
+645;1085;Camisa;Casa;1;202;2026-10-07;Sudeste;202
+646;1696;Livro;Casa;3;1822;2026-10-08;Nordeste;5466
+647;1284;Camisa;Eletrônicos;1;1384;2026-10-09;Centro-Oeste;1384
+648;1973;Smartphone;Esportes;3;1887;2026-10-10;Nordeste;5661
+649;1219;Notebook;Livros;1;593;2026-10-11;Sudeste;593
+650;1068;Smartphone;Esportes;1;616;2026-10-12;Centro-Oeste;616
+651;1046;Smartphone;Moda;1;1937;2026-10-13;Sudeste;1937
+652;1093;Livro;Livros;2;1462;2026-10-14;Sul;2924
+653;1749;Notebook;Casa;1;1621;2026-10-15;Sudeste;1621
+654;1957;Notebook;Livros;1;671;2026-10-16;Nordeste;671
+655;1452;Notebook;Casa;1;1250;2026-10-17;Norte;1250
+656;1203;Notebook;Casa;3;1435;2026-10-18;Sudeste;4305
+657;1911;Notebook;Livros;1;363;2026-10-19;Norte;363
+658;1217;Livro;Casa;3;856;2026-10-20;Sul;2568
+659;1473;Camisa;Casa;1;897;2026-10-21;Centro-Oeste;897
+660;1431;Smartphone;Moda;1;146;2026-10-22;Centro-Oeste;146
+661;1340;Notebook;Esportes;2;930;2026-10-23;Norte;1860
+662;1550;Fone de ouvido;Esportes;3;1286;2026-10-24;Centro-Oeste;3858
+663;1611;Camisa;Moda;1;878;2026-10-25;Sudeste;878
+664;1288;Camisa;Livros;3;186;2026-10-26;Norte;558
+665;1253;Smartphone;Eletrônicos;3;1079;2026-10-27;Nordeste;3237
+666;1733;Livro;Eletrônicos;4;1060;2026-10-28;Sudeste;4240
+667;1356;Geladeira;Eletrônicos;2;158;2026-10-29;Sudeste;316
+668;1022;Geladeira;Moda;2;596;2026-10-30;Sudeste;1192
+669;1761;Camisa;Moda;2;1112;2026-10-31;Nordeste;2224
+670;1521;Tênis;Casa;4;711;2026-11-01;Sul;2844
+671;1757;Tênis;Eletrônicos;4;474;2026-11-02;Centro-Oeste;1896
+672;1836;Smartphone;Livros;2;679;2026-11-03;Norte;1358
+673;1099;Geladeira;Livros;4;310;2026-11-04;Sul;1240
+674;1801;Camisa;Eletrônicos;4;1499;2026-11-05;Norte;5996
+675;1179;Livro;Eletrônicos;4;136;2026-11-06;Centro-Oeste;544
+676;1222;Geladeira;Eletrônicos;2;514;2026-11-07;Nordeste;1028
+677;1905;Camisa;Moda;2;125;2026-11-08;Sudeste;250
+678;1761;Camisa;Moda;2;520;2026-11-09;Sudeste;1040
+679;1658;Notebook;Moda;4;463;2026-11-10;Nordeste;1852
+680;1441;Livro;Esportes;2;874;2026-11-11;Sul;1748
+681;1607;Notebook;Livros;4;944;2026-11-12;Sul;3776
+682;1768;Smartphone;Livros;1;775;2026-11-13;Norte;775
+683;1324;Notebook;Casa;4;506;2026-11-14;Nordeste;2024
+684;1515;Fone de ouvido;Moda;3;1358;2026-11-15;Sul;4074
+685;1015;Notebook;Esportes;2;1312;2026-11-16;Nordeste;2624
+686;1791;Fone de ouvido;Esportes;2;1750;2026-11-17;Centro-Oeste;3500
+687;1335;Geladeira;Livros;3;1672;2026-11-18;Sudeste;5016
+688;1758;Tênis;Moda;4;702;2026-11-19;Sudeste;2808
+689;1257;Camisa;Casa;1;721;2026-11-20;Sudeste;721
+690;1496;Fone de ouvido;Moda;3;1631;2026-11-21;Nordeste;4893
+691;1987;Livro;Eletrônicos;3;1445;2026-11-22;Nordeste;4335
+692;1895;Notebook;Moda;4;544;2026-11-23;Norte;2176
+693;1159;Fone de ouvido;Eletrônicos;2;1697;2026-11-24;Sudeste;3394
+694;1474;Livro;Eletrônicos;4;1992;2026-11-25;Norte;7968
+695;1851;Tênis;Casa;3;1118;2026-11-26;Sudeste;3354
+696;1663;Tênis;Livros;3;1474;2026-11-27;Norte;4422
+697;1907;Notebook;Moda;2;1320;2026-11-28;Norte;2640
+698;1689;Smartphone;Eletrônicos;2;1689;2026-11-29;Centro-Oeste;3378
+699;1674;Notebook;Moda;2;646;2026-11-30;Norte;1292
+700;1379;Geladeira;Livros;4;499;2026-12-01;Nordeste;1996
+701;1544;Fone de ouvido;Livros;2;534;2026-12-02;Norte;1068
+702;1928;Camisa;Esportes;3;695;2026-12-03;Sudeste;2085
+703;1956;Smartphone;Livros;3;669;2026-12-04;Norte;2007
+704;1690;Notebook;Casa;1;1091;2026-12-05;Sul;1091
+705;1426;Livro;Eletrônicos;4;1679;2026-12-06;Sudeste;6716
+706;1612;Smartphone;Esportes;1;711;2026-12-07;Sul;711
+707;1267;Fone de ouvido;Casa;3;807;2026-12-08;Sudeste;2421
+708;1834;Smartphone;Moda;1;338;2026-12-09;Nordeste;338
+709;1576;Fone de ouvido;Eletrônicos;3;1487;2026-12-10;Nordeste;4461
+710;1416;Notebook;Livros;1;770;2026-12-11;Nordeste;770
+711;1167;Fone de ouvido;Eletrônicos;2;687;2026-12-12;Sul;1374
+712;1841;Smartphone;Moda;1;284;2026-12-13;Centro-Oeste;284
+713;1042;Livro;Esportes;2;465;2026-12-14;Sudeste;930
+714;1555;Tênis;Esportes;2;987;2026-12-15;Nordeste;1974
+715;1284;Smartphone;Esportes;4;548;2026-12-16;Sudeste;2192
+716;1396;Fone de ouvido;Livros;2;1023;2026-12-17;Sul;2046
+717;1011;Tênis;Casa;2;683;2026-12-18;Centro-Oeste;1366
+718;1606;Fone de ouvido;Casa;1;1723;2026-12-19;Sul;1723
+719;1301;Livro;Eletrônicos;3;1069;2026-12-20;Sudeste;3207
+720;1897;Fone de ouvido;Livros;4;164;2026-12-21;Centro-Oeste;656
+721;1252;Notebook;Esportes;2;981;2026-12-22;Centro-Oeste;1962
+722;1498;Camisa;Esportes;4;723;2026-12-23;Sul;2892
+723;1753;Smartphone;Moda;1;1786;2026-12-24;Nordeste;1786
+724;1034;Camisa;Moda;2;1307;2026-12-25;Sudeste;2614
+725;1726;Fone de ouvido;Esportes;1;1613;2026-12-26;Norte;1613
+726;1848;Livro;Esportes;4;1084;2026-12-27;Norte;4336
+727;1089;Smartphone;Livros;1;255;2026-12-28;Sul;255
+728;1775;Fone de ouvido;Casa;4;1752;2026-12-29;Sudeste;7008
+729;1604;Tênis;Moda;1;296;2026-12-30;Sudeste;296
+730;1921;Geladeira;Casa;4;1632;2026-12-31;Sul;6528
+731;1969;Fone de ouvido;Livros;3;807;2027-01-01;Sudeste;2421
+732;1601;Camisa;Esportes;1;1200;2027-01-02;Nordeste;1200
+733;1417;Smartphone;Casa;1;196;2027-01-03;Sul;196
+734;1114;Camisa;Esportes;3;167;2027-01-04;Nordeste;501
+735;1616;Smartphone;Esportes;3;1984;2027-01-05;Sudeste;5952
+736;1902;Fone de ouvido;Eletrônicos;1;1455;2027-01-06;Sul;1455
+737;1195;Notebook;Casa;3;461;2027-01-07;Sudeste;1383
+738;1825;Tênis;Casa;2;1737;2027-01-08;Sul;3474
+739;1500;Fone de ouvido;Esportes;4;1657;2027-01-09;Sudeste;6628
+740;1625;Camisa;Livros;4;412;2027-01-10;Nordeste;1648
+741;1492;Geladeira;Eletrônicos;4;1582;2027-01-11;Nordeste;6328
+742;1074;Geladeira;Esportes;2;186;2027-01-12;Sudeste;372
+743;1412;Livro;Moda;3;1248;2027-01-13;Sul;3744
+744;1375;Smartphone;Moda;3;1362;2027-01-14;Norte;4086
+745;1419;Camisa;Eletrônicos;1;1007;2027-01-15;Nordeste;1007
+746;1728;Livro;Livros;3;1554;2027-01-16;Nordeste;4662
+747;1276;Camisa;Esportes;1;68;2027-01-17;Norte;68
+748;1760;Smartphone;Casa;2;244;2027-01-18;Sudeste;488
+749;1675;Fone de ouvido;Eletrônicos;4;379;2027-01-19;Sul;1516
+750;1393;Fone de ouvido;Livros;4;224;2027-01-20;Sudeste;896
+751;1868;Geladeira;Casa;4;1051;2027-01-21;Centro-Oeste;4204
+752;1456;Fone de ouvido;Moda;3;498;2027-01-22;Nordeste;1494
+753;1919;Fone de ouvido;Moda;1;1998;2027-01-23;Centro-Oeste;1998
+754;1191;Notebook;Casa;1;995;2027-01-24;Nordeste;995
+755;1738;Geladeira;Eletrônicos;2;1427;2027-01-25;Nordeste;2854
+756;1688;Livro;Moda;3;1572;2027-01-26;Centro-Oeste;4716
+757;1098;Tênis;Esportes;2;190;2027-01-27;Centro-Oeste;380
+758;1547;Notebook;Casa;1;807;2027-01-28;Sudeste;807
+759;1977;Livro;Casa;1;1970;2027-01-29;Centro-Oeste;1970
+760;1998;Smartphone;Moda;4;979;2027-01-30;Sudeste;3916
+761;1095;Notebook;Eletrônicos;3;142;2027-01-31;Sudeste;426
+762;1663;Livro;Esportes;1;288;2027-02-01;Sudeste;288
+763;1662;Smartphone;Eletrônicos;4;254;2027-02-02;Nordeste;1016
+764;1189;Geladeira;Livros;3;609;2027-02-03;Nordeste;1827
+765;1735;Tênis;Livros;2;1506;2027-02-04;Centro-Oeste;3012
+766;1036;Smartphone;Moda;3;294;2027-02-05;Nordeste;882
+767;1779;Fone de ouvido;Moda;3;881;2027-02-06;Centro-Oeste;2643
+768;1368;Camisa;Moda;1;1390;2027-02-07;Nordeste;1390
+769;1694;Smartphone;Livros;1;974;2027-02-08;Sul;974
+770;1524;Smartphone;Eletrônicos;3;344;2027-02-09;Sul;1032
+771;1278;Tênis;Eletrônicos;1;689;2027-02-10;Centro-Oeste;689
+772;1216;Camisa;Moda;1;905;2027-02-11;Nordeste;905
+773;1866;Fone de ouvido;Esportes;1;1355;2027-02-12;Nordeste;1355
+774;1872;Livro;Eletrônicos;4;66;2027-02-13;Sudeste;264
+775;1797;Livro;Livros;4;120;2027-02-14;Norte;480
+776;1272;Smartphone;Casa;3;1342;2027-02-15;Centro-Oeste;4026
+777;1880;Camisa;Casa;1;1398;2027-02-16;Norte;1398
+778;1061;Camisa;Casa;4;1867;2027-02-17;Norte;7468
+779;1595;Fone de ouvido;Esportes;3;354;2027-02-18;Centro-Oeste;1062
+780;1879;Tênis;Moda;1;1524;2027-02-19;Nordeste;1524
+781;1728;Geladeira;Livros;2;1080;2027-02-20;Centro-Oeste;2160
+782;1341;Livro;Esportes;1;1387;2027-02-21;Norte;1387
+783;1396;Tênis;Livros;1;866;2027-02-22;Nordeste;866
+784;1698;Notebook;Livros;4;1176;2027-02-23;Sul;4704
+785;1018;Livro;Moda;3;870;2027-02-24;Centro-Oeste;2610
+786;1176;Tênis;Casa;3;242;2027-02-25;Centro-Oeste;726
+787;1611;Livro;Moda;4;1826;2027-02-26;Nordeste;7304
+788;1395;Geladeira;Esportes;1;1647;2027-02-27;Sul;1647
+789;1444;Notebook;Esportes;2;578;2027-02-28;Sul;1156
+790;1232;Geladeira;Esportes;1;220;2027-03-01;Nordeste;220
+791;1914;Fone de ouvido;Moda;1;1610;2027-03-02;Sudeste;1610
+792;1075;Notebook;Livros;2;300;2027-03-03;Centro-Oeste;600
+793;1264;Smartphone;Livros;4;1838;2027-03-04;Centro-Oeste;7352
+794;1454;Tênis;Eletrônicos;3;1460;2027-03-05;Norte;4380
+795;1795;Notebook;Esportes;4;1280;2027-03-06;Nordeste;5120
+796;1717;Fone de ouvido;Livros;4;590;2027-03-07;Norte;2360
+797;1734;Fone de ouvido;Eletrônicos;1;1702;2027-03-08;Norte;1702
+798;1383;Geladeira;Livros;3;465;2027-03-09;Sul;1395
+799;1563;Livro;Esportes;3;843;2027-03-10;Centro-Oeste;2529
+800;1850;Notebook;Casa;4;1453;2027-03-11;Norte;5812
+801;1505;Tênis;Esportes;2;1217;2027-03-12;Sul;2434
+802;1366;Notebook;Moda;4;74;2027-03-13;Nordeste;296
+803;1143;Camisa;Livros;2;1895;2027-03-14;Norte;3790
+804;1884;Livro;Livros;3;717;2027-03-15;Centro-Oeste;2151
+805;1068;Tênis;Moda;4;1146;2027-03-16;Norte;4584
+806;1098;Tênis;Moda;1;681;2027-03-17;Nordeste;681
+807;1395;Smartphone;Casa;4;1897;2027-03-18;Norte;7588
+808;1024;Geladeira;Livros;3;1906;2027-03-19;Centro-Oeste;5718
+809;1947;Smartphone;Livros;1;1166;2027-03-20;Sul;1166
+810;1890;Tênis;Casa;1;554;2027-03-21;Centro-Oeste;554
+811;1468;Livro;Eletrônicos;2;1671;2027-03-22;Sul;3342
+812;1483;Notebook;Casa;1;385;2027-03-23;Sudeste;385
+813;1564;Notebook;Esportes;1;474;2027-03-24;Centro-Oeste;474
+814;1150;Livro;Livros;4;548;2027-03-25;Centro-Oeste;2192
+815;1143;Tênis;Moda;3;1437;2027-03-26;Nordeste;4311
+816;1568;Fone de ouvido;Esportes;2;996;2027-03-27;Norte;1992
+817;1038;Notebook;Livros;4;679;2027-03-28;Sul;2716
+818;1108;Fone de ouvido;Casa;1;1818;2027-03-29;Sul;1818
+819;1692;Notebook;Esportes;1;1272;2027-03-30;Nordeste;1272
+820;1041;Notebook;Livros;2;767;2027-03-31;Nordeste;1534
+821;1185;Geladeira;Eletrônicos;3;1486;2027-04-01;Norte;4458
+822;1934;Geladeira;Eletrônicos;2;388;2027-04-02;Norte;776
+823;1397;Camisa;Moda;4;708;2027-04-03;Centro-Oeste;2832
+824;1222;Smartphone;Livros;2;1011;2027-04-04;Sudeste;2022
+825;1633;Livro;Eletrônicos;1;478;2027-04-05;Norte;478
+826;1132;Livro;Casa;4;1856;2027-04-06;Nordeste;7424
+827;1162;Livro;Livros;1;948;2027-04-07;Norte;948
+828;1214;Camisa;Casa;3;188;2027-04-08;Sul;564
+829;1732;Geladeira;Casa;1;1766;2027-04-09;Sudeste;1766
+830;1234;Tênis;Eletrônicos;1;991;2027-04-10;Centro-Oeste;991
+831;1842;Fone de ouvido;Livros;2;591;2027-04-11;Sul;1182
+832;1657;Fone de ouvido;Esportes;1;106;2027-04-12;Sul;106
+833;1750;Tênis;Eletrônicos;4;1305;2027-04-13;Sudeste;5220
+834;1587;Camisa;Eletrônicos;4;707;2027-04-14;Centro-Oeste;2828
+835;1008;Tênis;Livros;3;484;2027-04-15;Nordeste;1452
+836;1073;Livro;Livros;4;433;2027-04-16;Centro-Oeste;1732
+837;1953;Smartphone;Casa;2;609;2027-04-17;Norte;1218
+838;1491;Notebook;Livros;3;243;2027-04-18;Sul;729
+839;1912;Fone de ouvido;Casa;4;1809;2027-04-19;Norte;7236
+840;1252;Geladeira;Eletrônicos;2;1721;2027-04-20;Nordeste;3442
+841;1229;Geladeira;Moda;4;583;2027-04-21;Norte;2332
+842;1518;Camisa;Esportes;4;567;2027-04-22;Centro-Oeste;2268
+843;1173;Geladeira;Eletrônicos;1;765;2027-04-23;Norte;765
+844;1652;Livro;Livros;4;800;2027-04-24;Nordeste;3200
+845;1167;Fone de ouvido;Esportes;4;234;2027-04-25;Nordeste;936
+846;1169;Tênis;Moda;2;1945;2027-04-26;Nordeste;3890
+847;1392;Livro;Moda;2;341;2027-04-27;Centro-Oeste;682
+848;1945;Camisa;Casa;1;1408;2027-04-28;Nordeste;1408
+849;1794;Livro;Esportes;4;781;2027-04-29;Sul;3124
+850;1633;Tênis;Casa;1;165;2027-04-30;Nordeste;165
+851;1193;Smartphone;Eletrônicos;4;874;2027-05-01;Norte;3496
+852;1516;Camisa;Esportes;3;1122;2027-05-02;Norte;3366
+853;1028;Smartphone;Eletrônicos;3;734;2027-05-03;Norte;2202
+854;1164;Notebook;Casa;1;131;2027-05-04;Centro-Oeste;131
+855;1421;Smartphone;Esportes;1;883;2027-05-05;Norte;883
+856;1338;Notebook;Casa;1;382;2027-05-06;Centro-Oeste;382
+857;1647;Notebook;Esportes;2;606;2027-05-07;Centro-Oeste;1212
+858;1495;Smartphone;Casa;2;384;2027-05-08;Nordeste;768
+859;1364;Camisa;Moda;2;581;2027-05-09;Sul;1162
+860;1832;Tênis;Casa;1;270;2027-05-10;Nordeste;270
+861;1341;Livro;Moda;4;684;2027-05-11;Nordeste;2736
+862;1499;Livro;Casa;3;1819;2027-05-12;Centro-Oeste;5457
+863;1656;Tênis;Esportes;1;1806;2027-05-13;Centro-Oeste;1806
+864;1510;Fone de ouvido;Esportes;2;372;2027-05-14;Norte;744
+865;1326;Fone de ouvido;Esportes;2;1924;2027-05-15;Norte;3848
+866;1216;Notebook;Livros;1;52;2027-05-16;Nordeste;52
+867;1300;Notebook;Eletrônicos;1;1767;2027-05-17;Sudeste;1767
+868;1131;Camisa;Esportes;2;255;2027-05-18;Sudeste;510
+869;1803;Geladeira;Moda;4;1905;2027-05-19;Norte;7620
+870;1069;Smartphone;Esportes;2;89;2027-05-20;Sudeste;178
+871;1251;Notebook;Livros;2;108;2027-05-21;Norte;216
+872;1414;Livro;Moda;1;1000;2027-05-22;Centro-Oeste;1000
+873;1786;Camisa;Livros;4;623;2027-05-23;Nordeste;2492
+874;1444;Smartphone;Moda;2;693;2027-05-24;Sul;1386
+875;1875;Camisa;Casa;2;1580;2027-05-25;Nordeste;3160
+876;1181;Smartphone;Eletrônicos;3;1645;2027-05-26;Norte;4935
+877;1166;Smartphone;Eletrônicos;1;1957;2027-05-27;Norte;1957
+878;1090;Tênis;Livros;3;892;2027-05-28;Nordeste;2676
+879;1713;Notebook;Eletrônicos;3;1195;2027-05-29;Norte;3585
+880;1857;Camisa;Livros;2;1552;2027-05-30;Sudeste;3104
+881;1530;Camisa;Livros;1;668;2027-05-31;Sudeste;668
+882;1038;Tênis;Livros;4;145;2027-06-01;Norte;580
+883;1125;Livro;Eletrônicos;2;1932;2027-06-02;Norte;3864
+884;1450;Livro;Livros;4;1487;2027-06-03;Sudeste;5948
+885;1172;Fone de ouvido;Eletrônicos;4;1308;2027-06-04;Norte;5232
+886;1652;Notebook;Livros;1;947;2027-06-05;Norte;947
+887;1753;Notebook;Esportes;3;1135;2027-06-06;Nordeste;3405
+888;1219;Geladeira;Livros;1;1329;2027-06-07;Sul;1329
+889;1637;Tênis;Moda;4;610;2027-06-08;Sudeste;2440
+890;1057;Livro;Livros;2;954;2027-06-09;Nordeste;1908
+891;1659;Smartphone;Casa;4;397;2027-06-10;Sul;1588
+892;1475;Camisa;Livros;2;720;2027-06-11;Norte;1440
+893;1455;Notebook;Moda;2;1197;2027-06-12;Norte;2394
+894;1828;Camisa;Moda;1;1555;2027-06-13;Nordeste;1555
+895;1894;Camisa;Eletrônicos;4;366;2027-06-14;Norte;1464
+896;1360;Geladeira;Esportes;3;1577;2027-06-15;Centro-Oeste;4731
+897;1934;Livro;Livros;4;768;2027-06-16;Nordeste;3072
+898;1000;Notebook;Eletrônicos;4;1121;2027-06-17;Sul;4484
+899;1386;Camisa;Esportes;3;1482;2027-06-18;Nordeste;4446
+900;1972;Notebook;Livros;1;1209;2027-06-19;Sudeste;1209
+901;1347;Smartphone;Casa;4;1274;2027-06-20;Nordeste;5096
+902;1189;Geladeira;Livros;4;299;2027-06-21;Norte;1196
+903;1504;Smartphone;Moda;2;363;2027-06-22;Norte;726
+904;1190;Notebook;Moda;4;1942;2027-06-23;Centro-Oeste;7768
+905;1507;Fone de ouvido;Casa;3;1441;2027-06-24;Centro-Oeste;4323
+906;1368;Notebook;Eletrônicos;2;1502;2027-06-25;Centro-Oeste;3004
+907;1408;Livro;Esportes;1;1903;2027-06-26;Sul;1903
+908;1823;Camisa;Livros;2;856;2027-06-27;Centro-Oeste;1712
+909;1928;Camisa;Moda;3;1553;2027-06-28;Sul;4659
+910;1933;Smartphone;Eletrônicos;3;1387;2027-06-29;Centro-Oeste;4161
+911;1116;Geladeira;Casa;2;1573;2027-06-30;Sul;3146
+912;1133;Fone de ouvido;Moda;1;1794;2027-07-01;Nordeste;1794
+913;1057;Tênis;Casa;2;1428;2027-07-02;Nordeste;2856
+914;1555;Camisa;Livros;1;534;2027-07-03;Norte;534
+915;1684;Livro;Esportes;2;1284;2027-07-04;Sul;2568
+916;1671;Smartphone;Moda;3;1777;2027-07-05;Sudeste;5331
+917;1172;Smartphone;Moda;4;93;2027-07-06;Norte;372
+918;1828;Tênis;Livros;4;1614;2027-07-07;Nordeste;6456
+919;1814;Livro;Eletrônicos;1;620;2027-07-08;Sul;620
+920;1148;Geladeira;Esportes;1;632;2027-07-09;Centro-Oeste;632
+921;1079;Livro;Moda;1;1165;2027-07-10;Sudeste;1165
+922;1885;Geladeira;Esportes;3;1338;2027-07-11;Nordeste;4014
+923;1212;Livro;Moda;2;944;2027-07-12;Norte;1888
+924;1202;Livro;Esportes;3;269;2027-07-13;Sul;807
+925;1763;Notebook;Casa;4;1975;2027-07-14;Sudeste;7900
+926;1228;Smartphone;Moda;1;974;2027-07-15;Sul;974
+927;1675;Livro;Esportes;2;1515;2027-07-16;Centro-Oeste;3030
+928;1226;Tênis;Eletrônicos;4;450;2027-07-17;Norte;1800
+929;1658;Livro;Casa;4;1473;2027-07-18;Sul;5892
+930;1531;Camisa;Casa;4;776;2027-07-19;Nordeste;3104
+931;1440;Smartphone;Eletrônicos;3;1040;2027-07-20;Norte;3120
+932;1401;Camisa;Esportes;1;948;2027-07-21;Nordeste;948
+933;1046;Smartphone;Livros;4;1862;2027-07-22;Sul;7448
+934;1232;Camisa;Eletrônicos;1;1649;2027-07-23;Norte;1649
+935;1304;Livro;Esportes;3;907;2027-07-24;Nordeste;2721
+936;1525;Livro;Eletrônicos;4;853;2027-07-25;Centro-Oeste;3412
+937;1142;Notebook;Eletrônicos;3;539;2027-07-26;Centro-Oeste;1617
+938;1414;Tênis;Moda;3;1558;2027-07-27;Sul;4674
+939;1512;Camisa;Esportes;1;1830;2027-07-28;Norte;1830
+940;1372;Geladeira;Livros;4;1543;2027-07-29;Sudeste;6172
+941;1565;Notebook;Moda;3;1647;2027-07-30;Norte;4941
+942;1885;Camisa;Eletrônicos;4;987;2027-07-31;Centro-Oeste;3948
+943;1258;Camisa;Eletrônicos;1;893;2027-08-01;Nordeste;893
+944;1655;Notebook;Eletrônicos;3;1755;2027-08-02;Sudeste;5265
+945;1470;Livro;Esportes;1;1518;2027-08-03;Sul;1518
+946;1952;Camisa;Esportes;4;1342;2027-08-04;Sudeste;5368
+947;1970;Livro;Moda;4;316;2027-08-05;Sul;1264
+948;1011;Notebook;Livros;1;103;2027-08-06;Sudeste;103
+949;1329;Livro;Moda;2;577;2027-08-07;Sul;1154
+950;1735;Smartphone;Casa;3;1593;2027-08-08;Sul;4779
+951;1783;Geladeira;Eletrônicos;4;665;2027-08-09;Sudeste;2660
+952;1967;Fone de ouvido;Eletrônicos;4;1132;2027-08-10;Sudeste;4528
+953;1357;Camisa;Eletrônicos;3;1898;2027-08-11;Sul;5694
+954;1971;Tênis;Moda;1;1113;2027-08-12;Centro-Oeste;1113
+955;1407;Geladeira;Moda;1;1310;2027-08-13;Sudeste;1310
+956;1667;Fone de ouvido;Eletrônicos;1;1004;2027-08-14;Norte;1004
+957;1372;Livro;Moda;2;435;2027-08-15;Nordeste;870
+958;1007;Camisa;Esportes;2;1679;2027-08-16;Sul;3358
+959;1121;Livro;Esportes;4;783;2027-08-17;Sul;3132
+960;1347;Smartphone;Moda;1;765;2027-08-18;Nordeste;765
+961;1675;Notebook;Eletrônicos;3;699;2027-08-19;Centro-Oeste;2097
+962;1089;Camisa;Moda;4;349;2027-08-20;Nordeste;1396
+963;1647;Fone de ouvido;Moda;3;444;2027-08-21;Sudeste;1332
+964;1697;Fone de ouvido;Moda;4;1280;2027-08-22;Nordeste;5120
+965;1315;Smartphone;Casa;2;1409;2027-08-23;Sul;2818
+966;1177;Smartphone;Esportes;4;642;2027-08-24;Nordeste;2568
+967;1539;Camisa;Livros;2;1803;2027-08-25;Norte;3606
+968;1731;Livro;Livros;4;563;2027-08-26;Sudeste;2252
+969;1868;Tênis;Casa;1;1251;2027-08-27;Nordeste;1251
+970;1040;Fone de ouvido;Moda;3;445;2027-08-28;Sul;1335
+971;1739;Fone de ouvido;Casa;1;420;2027-08-29;Sudeste;420
+972;1703;Smartphone;Casa;4;907;2027-08-30;Sul;3628
+973;1922;Geladeira;Eletrônicos;4;840;2027-08-31;Centro-Oeste;3360
+974;1501;Smartphone;Esportes;4;707;2027-09-01;Norte;2828
+975;1958;Tênis;Livros;2;1391;2027-09-02;Centro-Oeste;2782
+976;1144;Livro;Moda;3;785;2027-09-03;Norte;2355
+977;1200;Livro;Livros;3;1442;2027-09-04;Nordeste;4326
+978;1928;Geladeira;Livros;4;433;2027-09-05;Sudeste;1732
+979;1723;Fone de ouvido;Esportes;4;111;2027-09-06;Nordeste;444
+980;1460;Smartphone;Livros;2;1879;2027-09-07;Norte;3758
+981;1731;Livro;Livros;1;554;2027-09-08;Norte;554
+982;1751;Tênis;Casa;1;288;2027-09-09;Norte;288
+983;1924;Camisa;Esportes;3;244;2027-09-10;Sul;732
+984;1908;Notebook;Eletrônicos;2;727;2027-09-11;Sudeste;1454
+985;1557;Notebook;Moda;4;1295;2027-09-12;Nordeste;5180
+986;1546;Notebook;Livros;3;110;2027-09-13;Nordeste;330
+987;1252;Fone de ouvido;Moda;2;1202;2027-09-14;Centro-Oeste;2404
+988;1389;Smartphone;Eletrônicos;1;1039;2027-09-15;Norte;1039
+989;1593;Geladeira;Moda;2;734;2027-09-16;Norte;1468
+990;1882;Livro;Eletrônicos;1;205;2027-09-17;Norte;205
+991;1255;Camisa;Casa;2;1990;2027-09-18;Nordeste;3980
+992;1708;Tênis;Livros;3;1451;2027-09-19;Centro-Oeste;4353
+993;1814;Camisa;Eletrônicos;1;1695;2027-09-20;Sul;1695
+994;1920;Tênis;Moda;3;1854;2027-09-21;Sudeste;5562
+995;1449;Fone de ouvido;Livros;3;972;2027-09-22;Sul;2916
+996;1009;Smartphone;Casa;1;917;2027-09-23;Nordeste;917
+997;1823;Notebook;Livros;1;952;2027-09-24;Norte;952
+998;1797;Smartphone;Eletrônicos;4;1863;2027-09-25;Sudeste;7452
+999;1241;Fone de ouvido;Casa;4;1659;2027-09-26;Nordeste;6636
+1000;1250;Geladeira;Moda;4;1048;2027-09-27;Nordeste;4192
+1001;1876;Geladeira;Casa;3;1510;2027-09-28;Nordeste;4530
+1002;1004;Fone de ouvido;Casa;3;1024;2027-09-29;Sudeste;3072
+1003;1118;Tênis;Esportes;4;1280;2027-09-30;Sudeste;5120
+1004;1800;Livro;Casa;3;437;2027-10-01;Centro-Oeste;1311
+1005;1373;Livro;Casa;3;1553;2027-10-02;Centro-Oeste;4659
+1006;1064;Tênis;Livros;1;1864;2027-10-03;Sul;1864
+1007;1145;Geladeira;Moda;1;936;2027-10-04;Sudeste;936
+1008;1223;Geladeira;Livros;3;887;2027-10-05;Sudeste;2661
+1009;1238;Geladeira;Livros;4;1413;2027-10-06;Sudeste;5652
+1010;1176;Smartphone;Eletrônicos;2;1942;2027-10-07;Centro-Oeste;3884
+1011;1778;Geladeira;Livros;4;389;2027-10-08;Nordeste;1556
+1012;1852;Camisa;Esportes;2;253;2027-10-09;Norte;506
+1013;1281;Notebook;Esportes;4;210;2027-10-10;Centro-Oeste;840
+1014;1062;Geladeira;Eletrônicos;1;1613;2027-10-11;Sudeste;1613
+1015;1216;Tênis;Moda;3;441;2027-10-12;Centro-Oeste;1323
+1016;1853;Notebook;Moda;3;818;2027-10-13;Sul;2454
+1017;1826;Smartphone;Livros;1;1750;2027-10-14;Sudeste;1750
+1018;1794;Tênis;Livros;2;624;2027-10-15;Sul;1248
+1019;1688;Notebook;Livros;2;583;2027-10-16;Sudeste;1166
+1020;1460;Tênis;Moda;2;1143;2027-10-17;Centro-Oeste;2286
+1021;1928;Smartphone;Casa;1;942;2027-10-18;Nordeste;942
+1022;1609;Camisa;Esportes;2;454;2027-10-19;Norte;908
+1023;1104;Smartphone;Casa;1;657;2027-10-20;Sul;657
+1024;1098;Smartphone;Casa;4;1748;2027-10-21;Centro-Oeste;6992
+1025;1510;Tênis;Moda;4;1664;2027-10-22;Nordeste;6656
+1026;1384;Fone de ouvido;Casa;1;1590;2027-10-23;Centro-Oeste;1590
+1027;1404;Livro;Eletrônicos;3;877;2027-10-24;Sul;2631
+1028;1822;Geladeira;Livros;4;1193;2027-10-25;Norte;4772
+1029;1517;Geladeira;Eletrônicos;2;1887;2027-10-26;Centro-Oeste;3774
+1030;1475;Camisa;Esportes;1;739;2027-10-27;Sudeste;739
+1031;1976;Camisa;Livros;2;1761;2027-10-28;Nordeste;3522
+1032;1708;Geladeira;Casa;2;951;2027-10-29;Centro-Oeste;1902
+1033;1862;Livro;Esportes;3;1290;2027-10-30;Nordeste;3870
+1034;1644;Geladeira;Livros;2;105;2027-10-31;Sudeste;210
+1035;1869;Fone de ouvido;Casa;3;415;2027-11-01;Norte;1245
+1036;1770;Livro;Eletrônicos;4;1772;2027-11-02;Norte;7088
+1037;1436;Camisa;Livros;1;1577;2027-11-03;Sudeste;1577
+1038;1022;Notebook;Casa;2;1817;2027-11-04;Nordeste;3634
+1039;1996;Tênis;Eletrônicos;1;1840;2027-11-05;Centro-Oeste;1840
+1040;1564;Fone de ouvido;Esportes;2;1998;2027-11-06;Sudeste;3996
+1041;1676;Fone de ouvido;Esportes;1;504;2027-11-07;Sul;504
+1042;1713;Camisa;Esportes;2;153;2027-11-08;Nordeste;306
+1043;1457;Camisa;Esportes;2;126;2027-11-09;Norte;252
+1044;1082;Smartphone;Moda;2;279;2027-11-10;Sudeste;558
+1045;1144;Fone de ouvido;Livros;2;1987;2027-11-11;Norte;3974
+1046;1084;Smartphone;Livros;2;1331;2027-11-12;Nordeste;2662
+1047;1077;Smartphone;Moda;2;1337;2027-11-13;Norte;2674
+1048;1456;Tênis;Casa;2;380;2027-11-14;Sudeste;760
+1049;1877;Smartphone;Casa;2;1255;2027-11-15;Nordeste;2510
+1050;1000;Livro;Esportes;2;942;2027-11-16;Sul;1884
+1051;1050;Geladeira;Eletrônicos;1;1841;2027-11-17;Sudeste;1841
+1052;1684;Notebook;Casa;3;1623;2027-11-18;Centro-Oeste;4869
+1053;1716;Camisa;Eletrônicos;2;737;2027-11-19;Sudeste;1474
+1054;1771;Livro;Livros;3;76;2027-11-20;Nordeste;228
+1055;1445;Notebook;Eletrônicos;2;1349;2027-11-21;Sudeste;2698
+1056;1448;Fone de ouvido;Livros;2;1725;2027-11-22;Sul;3450
+1057;1880;Fone de ouvido;Moda;1;348;2027-11-23;Sul;348
+1058;1487;Fone de ouvido;Moda;4;1006;2027-11-24;Centro-Oeste;4024
+1059;1799;Livro;Esportes;4;848;2027-11-25;Norte;3392
+1060;1033;Livro;Casa;1;1164;2027-11-26;Nordeste;1164
+1061;1347;Camisa;Esportes;3;529;2027-11-27;Nordeste;1587
+1062;1094;Geladeira;Livros;4;622;2027-11-28;Norte;2488
+1063;1071;Smartphone;Esportes;1;507;2027-11-29;Sul;507
+1064;1550;Fone de ouvido;Eletrônicos;1;1524;2027-11-30;Sul;1524
+1065;1153;Tênis;Livros;4;414;2027-12-01;Sudeste;1656
+1066;1249;Geladeira;Moda;3;908;2027-12-02;Centro-Oeste;2724
+1067;1673;Tênis;Casa;1;1748;2027-12-03;Centro-Oeste;1748
+1068;1437;Camisa;Livros;2;400;2027-12-04;Centro-Oeste;800
+1069;1117;Camisa;Livros;3;1728;2027-12-05;Sudeste;5184
+1070;1770;Camisa;Eletrônicos;3;1473;2027-12-06;Centro-Oeste;4419
+1071;1890;Notebook;Casa;4;302;2027-12-07;Norte;1208
+1072;1305;Tênis;Moda;4;830;2027-12-08;Sudeste;3320
+1073;1267;Geladeira;Livros;2;1954;2027-12-09;Norte;3908
+1074;1960;Geladeira;Livros;1;852;2027-12-10;Sudeste;852
+1075;1053;Livro;Eletrônicos;4;1061;2027-12-11;Centro-Oeste;4244
+1076;1235;Livro;Esportes;4;508;2027-12-12;Norte;2032
+1077;1388;Fone de ouvido;Moda;3;1772;2027-12-13;Norte;5316
+1078;1989;Livro;Casa;4;966;2027-12-14;Norte;3864
+1079;1733;Camisa;Livros;4;548;2027-12-15;Sudeste;2192
+1080;1762;Geladeira;Livros;4;999;2027-12-16;Nordeste;3996
+1081;1824;Tênis;Moda;4;1999;2027-12-17;Centro-Oeste;7996
+1082;1400;Camisa;Esportes;3;557;2027-12-18;Norte;1671
+1083;1623;Notebook;Livros;2;1377;2027-12-19;Nordeste;2754
+1084;1766;Livro;Moda;2;550;2027-12-20;Centro-Oeste;1100
+1085;1302;Camisa;Eletrônicos;1;852;2027-12-21;Centro-Oeste;852
+1086;1918;Camisa;Esportes;4;647;2027-12-22;Norte;2588
+1087;1206;Notebook;Casa;3;215;2027-12-23;Norte;645
+1088;1228;Smartphone;Livros;1;1488;2027-12-24;Sudeste;1488
+1089;1852;Geladeira;Moda;1;511;2027-12-25;Nordeste;511
+1090;1909;Tênis;Eletrônicos;2;969;2027-12-26;Nordeste;1938
+1091;1577;Fone de ouvido;Casa;3;163;2027-12-27;Norte;489
+1092;1074;Smartphone;Moda;3;1506;2027-12-28;Centro-Oeste;4518
+1093;1434;Livro;Moda;3;1041;2027-12-29;Norte;3123
+1094;1102;Camisa;Casa;2;1429;2027-12-30;Centro-Oeste;2858
+1095;1421;Notebook;Eletrônicos;2;1768;2027-12-31;Centro-Oeste;3536
+1096;1703;Notebook;Eletrônicos;2;256;2028-01-01;Norte;512
+1097;1763;Geladeira;Esportes;2;1841;2028-01-02;Sul;3682
+1098;1737;Smartphone;Livros;2;1308;2028-01-03;Nordeste;2616
+1099;1805;Fone de ouvido;Casa;4;1515;2028-01-04;Centro-Oeste;6060
+1100;1305;Geladeira;Casa;4;1428;2028-01-05;Centro-Oeste;5712
+1101;1097;Camisa;Casa;3;564;2028-01-06;Sul;1692
+1102;1849;Geladeira;Eletrônicos;1;1281;2028-01-07;Sudeste;1281
+1103;1797;Tênis;Livros;3;758;2028-01-08;Sul;2274
+1104;1334;Notebook;Esportes;1;1926;2028-01-09;Sul;1926
+1105;1858;Notebook;Moda;2;1198;2028-01-10;Centro-Oeste;2396
+1106;1434;Livro;Moda;1;187;2028-01-11;Nordeste;187
+1107;1446;Livro;Casa;3;388;2028-01-12;Sul;1164
+1108;1993;Fone de ouvido;Livros;3;586;2028-01-13;Sudeste;1758
+1109;1307;Camisa;Eletrônicos;1;117;2028-01-14;Norte;117
+1110;1248;Tênis;Livros;4;1646;2028-01-15;Sul;6584
+1111;1165;Smartphone;Livros;2;1614;2028-01-16;Sul;3228
+1112;1480;Geladeira;Eletrônicos;2;432;2028-01-17;Sudeste;864
+1113;1983;Fone de ouvido;Casa;3;68;2028-01-18;Nordeste;204
+1114;1334;Camisa;Livros;4;732;2028-01-19;Sul;2928
+1115;1541;Livro;Moda;1;1523;2028-01-20;Sul;1523
+1116;1758;Geladeira;Eletrônicos;2;123;2028-01-21;Nordeste;246
+1117;1105;Livro;Esportes;4;622;2028-01-22;Sudeste;2488
+1118;1562;Geladeira;Casa;2;988;2028-01-23;Sul;1976
+1119;1080;Smartphone;Eletrônicos;4;1738;2028-01-24;Nordeste;6952
+1120;1132;Camisa;Esportes;4;1349;2028-01-25;Sul;5396
+1121;1796;Geladeira;Esportes;3;1121;2028-01-26;Norte;3363
+1122;1899;Tênis;Livros;2;260;2028-01-27;Centro-Oeste;520
+1123;1137;Fone de ouvido;Livros;1;904;2028-01-28;Norte;904
+1124;1183;Notebook;Livros;3;1993;2028-01-29;Sul;5979
+1125;1400;Tênis;Eletrônicos;3;700;2028-01-30;Sudeste;2100
+1126;1329;Tênis;Eletrônicos;1;1695;2028-01-31;Centro-Oeste;1695
+1127;1784;Fone de ouvido;Casa;3;1043;2028-02-01;Norte;3129
+1128;1507;Notebook;Livros;4;744;2028-02-02;Nordeste;2976
+1129;1851;Tênis;Esportes;4;589;2028-02-03;Sudeste;2356
+1130;1983;Geladeira;Moda;2;1782;2028-02-04;Norte;3564
+1131;1068;Geladeira;Casa;2;1264;2028-02-05;Nordeste;2528
+1132;1545;Geladeira;Eletrônicos;1;1388;2028-02-06;Sul;1388
+1133;1773;Notebook;Casa;2;950;2028-02-07;Nordeste;1900
+1134;1052;Tênis;Casa;4;1636;2028-02-08;Norte;6544
+1135;1449;Notebook;Casa;1;1734;2028-02-09;Norte;1734
+1136;1204;Geladeira;Casa;1;829;2028-02-10;Sul;829
+1137;1125;Fone de ouvido;Moda;2;1635;2028-02-11;Nordeste;3270
+1138;1746;Tênis;Livros;4;1973;2028-02-12;Nordeste;7892
+1139;1042;Tênis;Esportes;1;1831;2028-02-13;Sul;1831
+1140;1751;Livro;Casa;4;1186;2028-02-14;Nordeste;4744
+1141;1970;Livro;Casa;4;219;2028-02-15;Sul;876
+1142;1882;Smartphone;Casa;4;1541;2028-02-16;Sudeste;6164
+1143;1110;Camisa;Livros;2;1751;2028-02-17;Norte;3502
+1144;1760;Livro;Eletrônicos;3;1994;2028-02-18;Sudeste;5982
+1145;1662;Notebook;Eletrônicos;3;1087;2028-02-19;Centro-Oeste;3261
+1146;1182;Livro;Moda;1;1788;2028-02-20;Centro-Oeste;1788
+1147;1847;Smartphone;Eletrônicos;4;337;2028-02-21;Centro-Oeste;1348
+1148;1094;Tênis;Casa;2;1980;2028-02-22;Sul;3960
+1149;1970;Smartphone;Casa;4;238;2028-02-23;Nordeste;952
+1150;1373;Tênis;Casa;4;963;2028-02-24;Sudeste;3852
+1151;1911;Fone de ouvido;Moda;2;1228;2028-02-25;Sudeste;2456
+1152;1519;Fone de ouvido;Casa;3;1640;2028-02-26;Sudeste;4920
+1153;1899;Tênis;Eletrônicos;4;743;2028-02-27;Sudeste;2972
+1154;1359;Camisa;Livros;4;1795;2028-02-28;Centro-Oeste;7180
+1155;1899;Livro;Livros;3;937;2028-02-29;Sudeste;2811
+1156;1695;Notebook;Esportes;2;520;2028-03-01;Nordeste;1040
+1157;1280;Notebook;Eletrônicos;1;1148;2028-03-02;Centro-Oeste;1148
+1158;1194;Geladeira;Casa;3;326;2028-03-03;Sudeste;978
+1159;1863;Tênis;Livros;1;989;2028-03-04;Sul;989
+1160;1194;Notebook;Eletrônicos;1;1718;2028-03-05;Norte;1718
+1161;1666;Camisa;Livros;3;1416;2028-03-06;Norte;4248
+1162;1092;Tênis;Casa;4;1498;2028-03-07;Norte;5992
+1163;1671;Camisa;Livros;1;620;2028-03-08;Centro-Oeste;620
+1164;1945;Notebook;Esportes;1;1584;2028-03-09;Sudeste;1584
+1165;1060;Notebook;Esportes;2;906;2028-03-10;Centro-Oeste;1812
+1166;1633;Geladeira;Livros;4;1050;2028-03-11;Nordeste;4200
+1167;1050;Notebook;Eletrônicos;1;1255;2028-03-12;Sul;1255
+1168;1402;Tênis;Eletrônicos;2;507;2028-03-13;Sul;1014
+1169;1788;Fone de ouvido;Eletrônicos;4;967;2028-03-14;Norte;3868
+1170;1004;Tênis;Livros;3;1924;2028-03-15;Norte;5772
+1171;1465;Tênis;Eletrônicos;3;882;2028-03-16;Norte;2646
+1172;1603;Geladeira;Casa;2;1137;2028-03-17;Sudeste;2274
+1173;1681;Geladeira;Esportes;3;888;2028-03-18;Nordeste;2664
+1174;1828;Notebook;Casa;1;1333;2028-03-19;Nordeste;1333
+1175;1533;Smartphone;Eletrônicos;4;242;2028-03-20;Nordeste;968
+1176;1404;Smartphone;Casa;1;1728;2028-03-21;Nordeste;1728
+1177;1837;Geladeira;Eletrônicos;1;665;2028-03-22;Norte;665
+1178;1512;Notebook;Livros;3;455;2028-03-23;Sul;1365
+1179;1644;Smartphone;Casa;1;1799;2028-03-24;Norte;1799
+1180;1232;Notebook;Livros;3;1827;2028-03-25;Nordeste;5481
+1181;1523;Notebook;Livros;4;992;2028-03-26;Norte;3968
+1182;1345;Notebook;Moda;4;770;2028-03-27;Nordeste;3080
+1183;1045;Livro;Eletrônicos;1;142;2028-03-28;Centro-Oeste;142
+1184;1545;Tênis;Esportes;2;479;2028-03-29;Sul;958
+1185;1944;Notebook;Eletrônicos;3;703;2028-03-30;Centro-Oeste;2109
+1186;1077;Livro;Esportes;3;1507;2028-03-31;Sudeste;4521
+1187;1729;Geladeira;Eletrônicos;1;1477;2028-04-01;Norte;1477
+1188;1812;Smartphone;Livros;3;483;2028-04-02;Sudeste;1449
+1189;1922;Tênis;Casa;3;1185;2028-04-03;Norte;3555
+1190;1072;Fone de ouvido;Casa;2;424;2028-04-04;Centro-Oeste;848
+1191;1793;Smartphone;Moda;2;1132;2028-04-05;Nordeste;2264
+1192;1248;Tênis;Esportes;1;1116;2028-04-06;Nordeste;1116
+1193;1046;Fone de ouvido;Esportes;2;256;2028-04-07;Norte;512
+1194;1120;Smartphone;Esportes;1;829;2028-04-08;Nordeste;829
+1195;1213;Tênis;Livros;4;1369;2028-04-09;Centro-Oeste;5476
+1196;1238;Smartphone;Esportes;1;1191;2028-04-10;Nordeste;1191
+1197;1055;Smartphone;Casa;4;581;2028-04-11;Centro-Oeste;2324
+1198;1349;Fone de ouvido;Livros;1;1295;2028-04-12;Sudeste;1295
+1199;1106;Smartphone;Eletrônicos;3;215;2028-04-13;Centro-Oeste;645
+1200;1830;Smartphone;Esportes;2;692;2028-04-14;Sul;1384

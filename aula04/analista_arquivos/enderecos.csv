@@ -1,0 +1,21 @@
+id_cliente;logradouro;numero;cidade;estado;cep
+1;Rua Alfa;100;Rio de Janeiro;RJ;20000-001
+2;Rua Beta;200;Rio de Janeiro;RJ;20000-002
+3;Rua Gama;300;Niterói;RJ;24000-003
+4;Rua Delta;400;São Gonçalo;RJ;24700-004
+5;Rua Épsilon;500;Rio de Janeiro;RJ;20000-005
+6;Av. Atlântica;1010;Rio de Janeiro;RJ;22010-000
+7;Rua das Laranjeiras;210;Rio de Janeiro;RJ;22240-003
+8;Rua Voluntários;320;Niterói;RJ;24020-005
+9;Rua Jardim Botânico;45;Rio de Janeiro;RJ;22460-000
+10;Rua do Catete;89;Rio de Janeiro;RJ;22220-000
+11;Rua São Bento;150;Duque de Caxias;RJ;25000-010
+12;Rua das Acácias;77;Nova Iguaçu;RJ;26000-020
+13;Av. Brasil;5500;Rio de Janeiro;RJ;21000-100
+14;Rua Uruguaiana;300;Rio de Janeiro;RJ;20050-050
+15;Rua da Carioca;25;Rio de Janeiro;RJ;20050-100
+16;Rua Barata Ribeiro;765;Rio de Janeiro;RJ;22040-002
+17;Rua Alice;180;Rio de Janeiro;RJ;22241-020
+18;Rua Real Grandeza;98;Rio de Janeiro;RJ;22281-030
+19;Rua Marquês de Abrantes;110;Rio de Janeiro;RJ;22230-061
+20;Rua Buenos Aires;40;Rio de Janeiro;RJ;20070-022
