@@ -1,0 +1,32 @@
+08/01/2026
+
+ctrl + shift + enter  # Executa o DDL 
+
+Exercício sobre transporte publico
+
+-- Database transporte
+-- Inserir dados na tabela linhas
+INSERT INTO linhas
+VALUES (1, '100', 'CENTRAL x IRAJA');
+
+-- Mostrar os dados da tabela
+SELECT * FROM linhas; 
+
+INSERT INTO linhas (id_linha,codigo)
+VALUES (2, '200');
+
+INSERT INTO linhas
+VALUES (3,NULL,'BARRA X CENTRO')
+
+
+DELETE FROM linhas WHERE id_linha >= 1
+
+
+LOAD DATA INFILE 'C:\\analista_arquivos\\sistema_bilhetagem\\cartoes.csv'
+INTO TABLE cartoes
+CHARACTER SET latin1
+FIELDS TERMINATED BY ';'
+LINES TERMINATED BY '\r\n'
+IGNORE 1 LINES
+(id_cartao,tipo,data_emissao);
+
